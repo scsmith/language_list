@@ -13159,7 +13159,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Dogri (macrolanguage)
+- :name: Dogri
   :iso_639_1: 
   :iso_639_3: doi
   :iso_639_2b: doi
@@ -24927,7 +24927,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Konkani (macrolanguage)
+- :name: Konkani
   :iso_639_1: 
   :iso_639_3: kok
   :iso_639_2b: kok
@@ -33575,7 +33575,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Malay (macrolanguage)
+- :name: Malay
   :iso_639_1: ms
   :iso_639_3: msa
   :iso_639_2b: may
@@ -48327,7 +48327,7 @@
   :common: false
   :type: :extinct
   :scope: :individual
-- :name: Swahili (macrolanguage)
+- :name: Swahili
   :iso_639_1: sw
   :iso_639_3: swa
   :iso_639_2b: swa
