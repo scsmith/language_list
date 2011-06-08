@@ -17,6 +17,10 @@ class LanguageListTest < Test::Unit::TestCase
     assert_equal 6986, LanguageList::LIVING_LANGUAGES.length
   end
   
+  def test_iso_iso_639_1_languages
+    assert_equal 184, LanguageList::ISO_639_1.length
+  end
+  
   def test_find_by_iso_639_1
     english = LanguageList::LanguageInfo.find_by_iso_639_1('en')
     assert_equal 'en', english.iso_639_1
