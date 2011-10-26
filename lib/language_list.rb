@@ -16,6 +16,10 @@ module LanguageList
       @common
     end
     
+    def <=>(other)
+      self.name <=> other.name
+    end
+    
     def iso_639_1?
       !@iso_639_1.nil?
     end
