@@ -48,4 +48,11 @@ class LanguageListTest < Test::Unit::TestCase
     assert_equal 'eng', english.iso_639_3
     assert_equal 'English', english.name
   end
+  
+  def test_sort_should_order_by_name
+    sorted = LanguageList::COMMON_LANGUAGES.sort
+    expected = LanguageList::COMMON_LANGUAGES.map(&:name).sort
+    
+    assert_equal expected, sorted.map(&:name)
+  end
 end
