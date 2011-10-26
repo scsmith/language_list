@@ -17,7 +17,7 @@ module LanguageList
     end
     
     def <=>(other)
-      other.name <=> self.name
+      self.name <=> other.name
     end
     
     def iso_639_1?
