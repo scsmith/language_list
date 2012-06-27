@@ -35,6 +35,13 @@ class LanguageListTest < Test::Unit::TestCase
     assert_equal 'English', english.name
   end
   
+  def test_find_by_name
+    english = LanguageList::LanguageInfo.find_by_name('English')
+    assert_equal 'en', english.iso_639_1
+    assert_equal 'eng', english.iso_639_3
+    assert_equal 'English', english.name
+  end
+
   def test_find_with_iso_639_1_code
     english = LanguageList::LanguageInfo.find('en')
     assert_equal 'en', english.iso_639_1
@@ -49,6 +56,13 @@ class LanguageListTest < Test::Unit::TestCase
     assert_equal 'English', english.name
   end
   
+  def test_find_with_name
+    english = LanguageList::LanguageInfo.find('English')
+    assert_equal 'en', english.iso_639_1
+    assert_equal 'eng', english.iso_639_3
+    assert_equal 'English', english.name
+  end
+
   def test_sort_should_order_by_name
     sorted = LanguageList::COMMON_LANGUAGES.sort
     expected = LanguageList::COMMON_LANGUAGES.map(&:name).sort

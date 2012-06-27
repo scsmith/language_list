@@ -42,8 +42,12 @@ module LanguageList
       LanguageList::ALL_LANGUAGES.detect{|l| l.iso_639_3 == code }
     end
     
+    def self.find_by_name(name)
+      LanguageList::ALL_LANGUAGES.detect{|l| l.name == name }
+    end
+
     def self.find(code)
-      find_by_iso_639_1(code) || find_by_iso_639_3(code)
+      find_by_iso_639_1(code) || find_by_iso_639_3(code) || find_by_name(code)
     end
   end
   
