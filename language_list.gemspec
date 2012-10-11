@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Steve Smith"]
   s.email       = ["gems@dynedge.co.uk"]
   s.homepage    = "https://github.com/scsmith/language_list"
-  s.summary     = %q{A list of languages and methods to find and work with these langauges.}
+  s.summary     = %q{A list of languages and methods to find and work with these languages.}
   s.description = %q{A list of languages based upon ISO-639-1 and ISO-639-3 with functions to retrieve only common languages.}
 
   s.rubyforge_project = "language_list"

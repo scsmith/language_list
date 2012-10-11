@@ -1,4 +1,4 @@
---- 
+---
 - :name: Ghotuo
   :iso_639_1: 
   :iso_639_3: aaa
@@ -31,7 +31,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Arb\xC3\xABresh\xC3\xAB Albanian"
+- :name: Arbëreshë Albanian
   :iso_639_1: 
   :iso_639_3: aae
   :iso_639_2b: 
@@ -95,7 +95,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Anamb\xC3\xA9"
+- :name: Anambé
   :iso_639_1: 
   :iso_639_3: aan
   :iso_639_2b: 
@@ -111,7 +111,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Par\xC3\xA1 Ar\xC3\xA1ra"
+- :name: Pará Arára
   :iso_639_1: 
   :iso_639_3: aap
   :iso_639_2b: 
@@ -135,7 +135,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Aas\xC3\xA1x"
+- :name: Aasáx
   :iso_639_1: 
   :iso_639_3: aas
   :iso_639_2b: 
@@ -183,7 +183,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Ab\xC3\xA9"
+- :name: Abé
   :iso_639_1: 
   :iso_639_3: aba
   :iso_639_2b: 
@@ -399,7 +399,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "\xC3\x81nc\xC3\xA1"
+- :name: Áncá
   :iso_639_1: 
   :iso_639_3: acb
   :iso_639_2b: 
@@ -503,7 +503,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Acro\xC3\xA1"
+- :name: Acroá
   :iso_639_1: 
   :iso_639_3: acs
   :iso_639_2b: 
@@ -1255,7 +1255,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "\xC3\x80h\xC3\xA0n"
+- :name: Àhàn
   :iso_639_1: 
   :iso_639_3: ahn
   :iso_639_2b: 
@@ -1503,7 +1503,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Aji\xC3\xAB"
+- :name: Ajië
   :iso_639_1: 
   :iso_639_3: aji
   :iso_639_2b: 
@@ -1895,7 +1895,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "'Are'are"
+- :name: ! '''Are''are'
   :iso_639_1: 
   :iso_639_3: alu
   :iso_639_2b: 
@@ -1903,7 +1903,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Alaba-K\xE2\x80\x99abeena"
+- :name: Alaba-K’abeena
   :iso_639_1: 
   :iso_639_3: alw
   :iso_639_2b: 
@@ -1935,7 +1935,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Amanay\xC3\xA9"
+- :name: Amanayé
   :iso_639_1: 
   :iso_639_3: ama
   :iso_639_2b: 
@@ -2167,7 +2167,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "X\xC3\xA2r\xC3\xA2c\xC3\xB9\xC3\xB9"
+- :name: Xârâcùù
   :iso_639_1: 
   :iso_639_3: ane
   :iso_639_2b: 
@@ -2423,7 +2423,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Arh\xC3\xB6"
+- :name: Arhö
   :iso_639_1: 
   :iso_639_3: aok
   :iso_639_2b: 
@@ -2439,7 +2439,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "\xC3\x96mie"
+- :name: Ömie
   :iso_639_1: 
   :iso_639_3: aom
   :iso_639_2b: 
@@ -2551,7 +2551,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Apiak\xC3\xA1"
+- :name: Apiaká
   :iso_639_1: 
   :iso_639_3: api
   :iso_639_2b: 
@@ -2591,7 +2591,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Apinay\xC3\xA9"
+- :name: Apinayé
   :iso_639_1: 
   :iso_639_3: apn
   :iso_639_2b: 
@@ -2647,7 +2647,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Apurin\xC3\xA3"
+- :name: Apurinã
   :iso_639_1: 
   :iso_639_3: apu
   :iso_639_2b: 
@@ -2679,7 +2679,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Apala\xC3\xAD"
+- :name: Apalaí
   :iso_639_1: 
   :iso_639_3: apy
   :iso_639_2b: 
@@ -2743,7 +2743,7 @@
   :common: false
   :type: :extinct
   :scope: :individual
-- :name: "Arh\xC3\xA2"
+- :name: Arhâ
   :iso_639_1: 
   :iso_639_3: aqr
   :iso_639_2b: 
@@ -2831,7 +2831,7 @@
   :common: false
   :type: :extinct
   :scope: :individual
-- :name: "Arikap\xC3\xBA"
+- :name: Arikapú
   :iso_639_1: 
   :iso_639_3: ark
   :iso_639_2b: 
@@ -2895,7 +2895,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Aru\xC3\xA1 (Amazonas State)"
+- :name: Aruá (Amazonas State)
   :iso_639_1: 
   :iso_639_3: aru
   :iso_639_2b: 
@@ -2919,7 +2919,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Aru\xC3\xA1 (Rodonia State)"
+- :name: Aruá (Rodonia State)
   :iso_639_1: 
   :iso_639_3: arx
   :iso_639_2b: 
@@ -3047,7 +3047,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Xing\xC3\xBA Asurin\xC3\xAD"
+- :name: Xingú Asuriní
   :iso_639_1: 
   :iso_639_3: asn
   :iso_639_2b: 
@@ -3199,7 +3199,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Atti\xC3\xA9"
+- :name: Attié
   :iso_639_1: 
   :iso_639_3: ati
   :iso_639_2b: 
@@ -3503,7 +3503,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Aur\xC3\xA1"
+- :name: Aurá
   :iso_639_1: 
   :iso_639_3: aux
   :iso_639_2b: 
@@ -3623,7 +3623,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Av\xC3\xA1-Canoeiro"
+- :name: Avá-Canoeiro
   :iso_639_1: 
   :iso_639_3: avv
   :iso_639_2b: 
@@ -3655,7 +3655,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Awet\xC3\xAD"
+- :name: Awetí
   :iso_639_1: 
   :iso_639_3: awe
   :iso_639_2b: 
@@ -3727,7 +3727,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Arawet\xC3\xA9"
+- :name: Araweté
   :iso_639_1: 
   :iso_639_3: awt
   :iso_639_2b: 
@@ -3783,7 +3783,7 @@
   :common: false
   :type: :extinct
   :scope: :individual
-- :name: "Mato Grosso Ar\xC3\xA1ra"
+- :name: Mato Grosso Arára
   :iso_639_1: 
   :iso_639_3: axg
   :iso_639_2b: 
@@ -4063,7 +4063,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Bainouk-Gunyu\xC3\xB1o"
+- :name: Bainouk-Gunyuño
   :iso_639_1: 
   :iso_639_3: bab
   :iso_639_2b: 
@@ -4079,7 +4079,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Bar\xC3\xA9"
+- :name: Baré
   :iso_639_1: 
   :iso_639_3: bae
   :iso_639_2b: 
@@ -4303,7 +4303,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Ghom\xC3\xA1l\xC3\xA1'"
+- :name: Ghomálá'
   :iso_639_1: 
   :iso_639_3: bbj
   :iso_639_2b: 
@@ -4343,7 +4343,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Northern Bobo Madar\xC3\xA9"
+- :name: Northern Bobo Madaré
   :iso_639_1: 
   :iso_639_3: bbo
   :iso_639_2b: 
@@ -4503,7 +4503,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Baoul\xC3\xA9"
+- :name: Baoulé
   :iso_639_1: 
   :iso_639_3: bci
   :iso_639_2b: 
@@ -4655,7 +4655,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Ember\xC3\xA1-Baud\xC3\xB3"
+- :name: Emberá-Baudó
   :iso_639_1: 
   :iso_639_3: bdc
   :iso_639_2b: 
@@ -4991,7 +4991,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Guiberoua B\xC3\xA9te"
+- :name: Guiberoua Béte
   :iso_639_1: 
   :iso_639_3: bet
   :iso_639_2b: 
@@ -5007,7 +5007,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Daloa B\xC3\xA9t\xC3\xA9"
+- :name: Daloa Bété
   :iso_639_1: 
   :iso_639_3: bev
   :iso_639_2b: 
@@ -5135,7 +5135,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Banda-Nd\xC3\xA9l\xC3\xA9"
+- :name: Banda-Ndélé
   :iso_639_1: 
   :iso_639_3: bfl
   :iso_639_2b: 
@@ -5999,7 +5999,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Bakw\xC3\xA9"
+- :name: Bakwé
   :iso_639_1: 
   :iso_639_3: bjw
   :iso_639_2b: 
@@ -6143,7 +6143,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Bakair\xC3\xAD"
+- :name: Bakairí
   :iso_639_1: 
   :iso_639_3: bkq
   :iso_639_2b: 
@@ -6879,7 +6879,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Barbare\xC3\xB1o"
+- :name: Barbareño
   :iso_639_1: 
   :iso_639_3: boi
   :iso_639_2b: 
@@ -6927,7 +6927,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Tiemac\xC3\xA8w\xC3\xA8 Bozo"
+- :name: Tiemacèwè Bozo
   :iso_639_1: 
   :iso_639_3: boo
   :iso_639_2b: 
@@ -6951,7 +6951,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Bor\xC3\xB4ro"
+- :name: Borôro
   :iso_639_1: 
   :iso_639_3: bor
   :iso_639_2b: 
@@ -7015,7 +7015,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Ti\xC3\xA9yaxo Bozo"
+- :name: Tiéyaxo Bozo
   :iso_639_1: 
   :iso_639_3: boz
   :iso_639_2b: 
@@ -7279,7 +7279,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Banda-Mbr\xC3\xA8s"
+- :name: Banda-Mbrès
   :iso_639_1: 
   :iso_639_3: bqk
   :iso_639_2b: 
@@ -7775,7 +7775,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Baga Soban\xC3\xA9"
+- :name: Baga Sobané
   :iso_639_1: 
   :iso_639_3: bsv
   :iso_639_2b: 
@@ -7847,7 +7847,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Gagnoa B\xC3\xA9t\xC3\xA9"
+- :name: Gagnoa Bété
   :iso_639_1: 
   :iso_639_3: btg
   :iso_639_2b: 
@@ -8463,7 +8463,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "L\xC3\xA1\xC3\xA1 L\xC3\xA1\xC3\xA1 Bwamu"
+- :name: Láá Láá Bwamu
   :iso_639_1: 
   :iso_639_3: bwj
   :iso_639_2b: 
@@ -8519,7 +8519,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Southern Bobo Madar\xC3\xA9"
+- :name: Southern Bobo Madaré
   :iso_639_1: 
   :iso_639_3: bwq
   :iso_639_2b: 
@@ -9167,7 +9167,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "K\xC9\x9Bl\xC9\x9Bngaxo Bozo"
+- :name: Kɛlɛngaxo Bozo
   :iso_639_1: 
   :iso_639_3: bzx
   :iso_639_2b: 
@@ -9191,7 +9191,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Chort\xC3\xAD"
+- :name: Chortí
   :iso_639_1: 
   :iso_639_3: caa
   :iso_639_2b: 
@@ -9239,7 +9239,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Nivacl\xC3\xA9"
+- :name: Nivaclé
   :iso_639_1: 
   :iso_639_3: cag
   :iso_639_2b: 
@@ -9255,7 +9255,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Chan\xC3\xA9"
+- :name: Chané
   :iso_639_1: 
   :iso_639_3: caj
   :iso_639_2b: 
@@ -9279,7 +9279,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Cemuh\xC3\xAE"
+- :name: Cemuhî
   :iso_639_1: 
   :iso_639_3: cam
   :iso_639_2b: 
@@ -9295,7 +9295,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Ch\xC3\xA1cobo"
+- :name: Chácobo
   :iso_639_1: 
   :iso_639_3: cao
   :iso_639_2b: 
@@ -9327,7 +9327,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Tsiman\xC3\xA9"
+- :name: Tsimané
   :iso_639_1: 
   :iso_639_3: cas
   :iso_639_2b: 
@@ -9343,7 +9343,7 @@
   :common: true
   :type: :living
   :scope: :individual
-- :name: "Cavine\xC3\xB1a"
+- :name: Cavineña
   :iso_639_1: 
   :iso_639_3: cav
   :iso_639_2b: 
@@ -9383,7 +9383,7 @@
   :common: false
   :type: :extinct
   :scope: :individual
-- :name: "Cabiyar\xC3\xAD"
+- :name: Cabiyarí
   :iso_639_1: 
   :iso_639_3: cbb
   :iso_639_2b: 
@@ -9791,7 +9791,7 @@
   :common: true
   :type: :living
   :scope: :individual
-- :name: "Cent\xC3\xBA\xC3\xBAm"
+- :name: Centúúm
   :iso_639_1: 
   :iso_639_3: cet
   :iso_639_2b: 
@@ -9927,7 +9927,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Ojitl\xC3\xA1n Chinantec"
+- :name: Ojitlán Chinantec
   :iso_639_1: 
   :iso_639_3: chj
   :iso_639_2b: 
@@ -9999,7 +9999,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Chol\xC3\xB3n"
+- :name: Cholón
   :iso_639_1: 
   :iso_639_3: cht
   :iso_639_2b: 
@@ -10047,7 +10047,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Ozumac\xC3\xADn Chinantec"
+- :name: Ozumacín Chinantec
   :iso_639_1: 
   :iso_639_3: chz
   :iso_639_2b: 
@@ -10215,7 +10215,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Ash\xC3\xA9ninka Pajonal"
+- :name: Ashéninka Pajonal
   :iso_639_1: 
   :iso_639_3: cjo
   :iso_639_2b: 
@@ -10223,7 +10223,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Cab\xC3\xA9car"
+- :name: Cabécar
   :iso_639_1: 
   :iso_639_3: cjp
   :iso_639_2b: 
@@ -10359,7 +10359,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Cakchiquel-Quich\xC3\xA9 Mixed Language"
+- :name: Cakchiquel-Quiché Mixed Language
   :iso_639_1: 
   :iso_639_3: ckz
   :iso_639_2b: 
@@ -10495,7 +10495,7 @@
   :common: false
   :type: :historical
   :scope: :individual
-- :name: "Ember\xC3\xA1-Cham\xC3\xAD"
+- :name: Emberá-Chamí
   :iso_639_1: 
   :iso_639_3: cmi
   :iso_639_2b: 
@@ -10575,7 +10575,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "C\xC3\xB4\xC3\xB4ng"
+- :name: Côông
   :iso_639_1: 
   :iso_639_3: cnc
   :iso_639_2b: 
@@ -10599,7 +10599,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Ash\xC3\xA1ninka"
+- :name: Asháninka
   :iso_639_1: 
   :iso_639_3: cni
   :iso_639_2b: 
@@ -10767,7 +10767,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Cof\xC3\xA1n"
+- :name: Cofán
   :iso_639_1: 
   :iso_639_3: con
   :iso_639_2b: 
@@ -10879,7 +10879,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Ucayali-Yur\xC3\xBAa Ash\xC3\xA9ninka"
+- :name: Ucayali-Yurúa Ashéninka
   :iso_639_1: 
   :iso_639_3: cpb
   :iso_639_2b: 
@@ -10887,7 +10887,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Ajy\xC3\xADninka Apurucayali"
+- :name: Ajyíninka Apurucayali
   :iso_639_1: 
   :iso_639_3: cpc
   :iso_639_2b: 
@@ -10927,7 +10927,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Pichis Ash\xC3\xA9ninka"
+- :name: Pichis Ashéninka
   :iso_639_1: 
   :iso_639_3: cpu
   :iso_639_2b: 
@@ -10943,7 +10943,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "South Ucayali Ash\xC3\xA9ninka"
+- :name: South Ucayali Ashéninka
   :iso_639_1: 
   :iso_639_3: cpy
   :iso_639_2b: 
@@ -11031,7 +11031,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "S\xC3\xA3otomense"
+- :name: Sãotomense
   :iso_639_1: 
   :iso_639_3: cri
   :iso_639_2b: 
@@ -11151,7 +11151,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Cruze\xC3\xB1o"
+- :name: Cruzeño
   :iso_639_1: 
   :iso_639_3: crz
   :iso_639_2b: 
@@ -11391,7 +11391,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Ember\xC3\xA1-Cat\xC3\xADo"
+- :name: Emberá-Catío
   :iso_639_1: 
   :iso_639_3: cto
   :iso_639_2b: 
@@ -11527,7 +11527,7 @@
   :common: false
   :type: :extinct
   :scope: :individual
-- :name: "Cupe\xC3\xB1o"
+- :name: Cupeño
   :iso_639_1: 
   :iso_639_3: cup
   :iso_639_2b: 
@@ -11727,7 +11727,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Dangal\xC3\xA9at"
+- :name: Dangaléat
   :iso_639_1: 
   :iso_639_3: daa
   :iso_639_2b: 
@@ -13063,7 +13063,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Dz\xC3\xB9\xC3\xB9ngoo"
+- :name: Dzùùngoo
   :iso_639_1: 
   :iso_639_3: dnn
   :iso_639_2b: 
@@ -13103,7 +13103,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Den\xC3\xAD"
+- :name: Dení
   :iso_639_1: 
   :iso_639_3: dny
   :iso_639_2b: 
@@ -13223,7 +13223,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Dogos\xC3\xA9"
+- :name: Dogosé
   :iso_639_1: 
   :iso_639_3: dos
   :iso_639_2b: 
@@ -13959,7 +13959,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Ebri\xC3\xA9"
+- :name: Ebrié
   :iso_639_1: 
   :iso_639_3: ebr
   :iso_639_2b: 
@@ -14343,7 +14343,7 @@
   :common: false
   :type: :extinct
   :scope: :individual
-- :name: "Northern Ember\xC3\xA1"
+- :name: Northern Emberá
   :iso_639_1: 
   :iso_639_3: emp
   :iso_639_2b: 
@@ -14511,7 +14511,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Beti (C\xC3\xB4te d'Ivoire)"
+- :name: Beti (Côte d'Ivoire)
   :iso_639_1: 
   :iso_639_3: eot
   :iso_639_2b: 
@@ -15527,7 +15527,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Fulni\xC3\xB4"
+- :name: Fulniô
   :iso_639_1: 
   :iso_639_3: fun
   :iso_639_2b: 
@@ -15591,7 +15591,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Fw\xC3\xA2i"
+- :name: Fwâi
   :iso_639_1: 
   :iso_639_3: fwa
   :iso_639_2b: 
@@ -16463,7 +16463,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Ghadam\xC3\xA8s"
+- :name: Ghadamès
   :iso_639_1: 
   :iso_639_3: gha
   :iso_639_2b: 
@@ -16895,7 +16895,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "M\xC3\xA1ghd\xC3\xAC"
+- :name: Mághdì
   :iso_639_1: 
   :iso_639_3: gmd
   :iso_639_2b: 
@@ -17103,7 +17103,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Western Bolivian Guaran\xC3\xAD"
+- :name: Western Bolivian Guaraní
   :iso_639_1: 
   :iso_639_3: gnw
   :iso_639_2b: 
@@ -17143,7 +17143,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Godi\xC3\xA9"
+- :name: Godié
   :iso_639_1: 
   :iso_639_3: god
   :iso_639_2b: 
@@ -17607,7 +17607,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Guat\xC3\xB3"
+- :name: Guató
   :iso_639_1: 
   :iso_639_3: gta
   :iso_639_2b: 
@@ -17631,7 +17631,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Guajaj\xC3\xA1ra"
+- :name: Guajajára
   :iso_639_1: 
   :iso_639_3: gub
   :iso_639_2b: 
@@ -17647,7 +17647,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Yocobou\xC3\xA9 Dida"
+- :name: Yocoboué Dida
   :iso_639_1: 
   :iso_639_3: gud
   :iso_639_2b: 
@@ -17671,7 +17671,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Paraguayan Guaran\xC3\xAD"
+- :name: Paraguayan Guaraní
   :iso_639_1: 
   :iso_639_3: gug
   :iso_639_2b: 
@@ -17687,7 +17687,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Eastern Bolivian Guaran\xC3\xAD"
+- :name: Eastern Bolivian Guaraní
   :iso_639_1: 
   :iso_639_3: gui
   :iso_639_2b: 
@@ -17727,7 +17727,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Mby\xC3\xA1 Guaran\xC3\xAD"
+- :name: Mbyá Guaraní
   :iso_639_1: 
   :iso_639_3: gun
   :iso_639_2b: 
@@ -17751,7 +17751,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Ach\xC3\xA9"
+- :name: Aché
   :iso_639_1: 
   :iso_639_3: guq
   :iso_639_2b: 
@@ -17775,7 +17775,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Mal\xC3\xA9ku Ja\xC3\xADka"
+- :name: Maléku Jaíka
   :iso_639_1: 
   :iso_639_3: gut
   :iso_639_2b: 
@@ -17783,7 +17783,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Yanomam\xC3\xB6"
+- :name: Yanomamö
   :iso_639_1: 
   :iso_639_3: guu
   :iso_639_2b: 
@@ -17807,7 +17807,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Gourmanch\xC3\xA9ma"
+- :name: Gourmanchéma
   :iso_639_1: 
   :iso_639_3: gux
   :iso_639_2b: 
@@ -17855,7 +17855,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Guaj\xC3\xA1"
+- :name: Guajá
   :iso_639_1: 
   :iso_639_3: gvj
   :iso_639_2b: 
@@ -17887,7 +17887,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Gavi\xC3\xA3o Do Jiparan\xC3\xA1"
+- :name: Gavião Do Jiparaná
   :iso_639_1: 
   :iso_639_3: gvo
   :iso_639_2b: 
@@ -17895,7 +17895,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Par\xC3\xA1 Gavi\xC3\xA3o"
+- :name: Pará Gavião
   :iso_639_1: 
   :iso_639_3: gvp
   :iso_639_2b: 
@@ -17983,7 +17983,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Gwich\xCA\xBCin"
+- :name: Gwichʼin
   :iso_639_1: 
   :iso_639_3: gwi
   :iso_639_2b: gwi
@@ -18047,7 +18047,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "W\xC3\xA8 Southern"
+- :name: Wè Southern
   :iso_639_1: 
   :iso_639_3: gxx
   :iso_639_2b: 
@@ -18119,7 +18119,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Ng\xC3\xA4bere"
+- :name: Ngäbere
   :iso_639_1: 
   :iso_639_3: gym
   :iso_639_2b: 
@@ -18287,7 +18287,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Hak\xC3\xB6"
+- :name: Hakö
   :iso_639_1: 
   :iso_639_3: hao
   :iso_639_2b: 
@@ -18487,7 +18487,7 @@
   :common: true
   :type: :living
   :scope: :individual
-- :name: "Herd\xC3\xA9"
+- :name: Herdé
   :iso_639_1: 
   :iso_639_3: hed
   :iso_639_2b: 
@@ -18671,7 +18671,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Himarim\xC3\xA3"
+- :name: Himarimã
   :iso_639_1: 
   :iso_639_3: hir
   :iso_639_2b: 
@@ -18695,7 +18695,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Hixkary\xC3\xA1na"
+- :name: Hixkaryána
   :iso_639_1: 
   :iso_639_3: hix
   :iso_639_2b: 
@@ -18959,7 +18959,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Hmong D\xC3\xB4"
+- :name: Hmong Dô
   :iso_639_1: 
   :iso_639_3: hmv
   :iso_639_2b: 
@@ -19111,7 +19111,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Hoby\xC3\xB3t"
+- :name: Hobyót
   :iso_639_1: 
   :iso_639_3: hoh
   :iso_639_2b: 
@@ -19287,7 +19287,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "H\xC3\xA9rtevin"
+- :name: Hértevin
   :iso_639_1: 
   :iso_639_3: hrt
   :iso_639_2b: 
@@ -19583,7 +19583,7 @@
   :common: false
   :type: :extinct
   :scope: :individual
-- :name: "N\xC3\xBCpode Huitoto"
+- :name: Nüpode Huitoto
   :iso_639_1: 
   :iso_639_3: hux
   :iso_639_2b: 
@@ -19591,7 +19591,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Hulaul\xC3\xA1"
+- :name: Hulaulá
   :iso_639_1: 
   :iso_639_3: huy
   :iso_639_2b: 
@@ -19639,7 +19639,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Santa Mar\xC3\xADa Del Mar Huave"
+- :name: Santa María Del Mar Huave
   :iso_639_1: 
   :iso_639_3: hvv
   :iso_639_2b: 
@@ -19647,7 +19647,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Wan\xC3\xA9"
+- :name: Wané
   :iso_639_1: 
   :iso_639_3: hwa
   :iso_639_2b: 
@@ -19927,7 +19927,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Idat\xC3\xA9"
+- :name: Idaté
   :iso_639_1: 
   :iso_639_3: idt
   :iso_639_2b: 
@@ -19959,7 +19959,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "If\xC3\xA8"
+- :name: Ifè
   :iso_639_1: 
   :iso_639_3: ife
   :iso_639_2b: 
@@ -20495,7 +20495,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "I\xC3\xB1apari"
+- :name: Iñapari
   :iso_639_1: 
   :iso_639_3: inp
   :iso_639_2b: 
@@ -20519,7 +20519,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Inese\xC3\xB1o"
+- :name: Ineseño
   :iso_639_1: 
   :iso_639_3: inz
   :iso_639_2b: 
@@ -20615,7 +20615,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Ir\xC3\xA1ntxe"
+- :name: Irántxe
   :iso_639_1: 
   :iso_639_3: irn
   :iso_639_2b: 
@@ -20895,7 +20895,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Itz\xC3\xA1"
+- :name: Itzá
   :iso_639_1: 
   :iso_639_3: itz
   :iso_639_2b: 
@@ -21023,7 +21023,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Jamamad\xC3\xAD"
+- :name: Jamamadí
   :iso_639_1: 
   :iso_639_3: jaa
   :iso_639_2b: 
@@ -21231,7 +21231,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Jabut\xC3\xAD"
+- :name: Jabutí
   :iso_639_1: 
   :iso_639_3: jbt
   :iso_639_2b: 
@@ -21727,7 +21727,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Jor\xC3\xA1"
+- :name: Jorá
   :iso_639_1: 
   :iso_639_3: jor
   :iso_639_2b: 
@@ -21815,7 +21815,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Japrer\xC3\xADa"
+- :name: Japrería
   :iso_639_1: 
   :iso_639_3: jru
   :iso_639_2b: 
@@ -21831,7 +21831,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "J\xC3\xBAma"
+- :name: Júma
   :iso_639_1: 
   :iso_639_3: jua
   :iso_639_2b: 
@@ -21863,7 +21863,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "H\xC3\xB5ne"
+- :name: Hõne
   :iso_639_1: 
   :iso_639_3: juh
   :iso_639_2b: 
@@ -21911,7 +21911,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Hupd\xC3\xAB"
+- :name: Hupdë
   :iso_639_1: 
   :iso_639_3: jup
   :iso_639_2b: 
@@ -21919,7 +21919,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Jur\xC3\xBAna"
+- :name: Jurúna
   :iso_639_1: 
   :iso_639_3: jur
   :iso_639_2b: 
@@ -21951,7 +21951,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "W\xC3\xA3pha"
+- :name: Wãpha
   :iso_639_1: 
   :iso_639_3: juw
   :iso_639_2b: 
@@ -22175,7 +22175,7 @@
   :common: false
   :type: :living
   :scope: :macro_language
-- :name: "Katuk\xC3\xADna"
+- :name: Katukína
   :iso_639_1: 
   :iso_639_3: kav
   :iso_639_2b: 
@@ -22199,7 +22199,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Kamayur\xC3\xA1"
+- :name: Kamayurá
   :iso_639_1: 
   :iso_639_3: kay
   :iso_639_2b: 
@@ -22223,7 +22223,7 @@
   :common: false
   :type: :extinct
   :scope: :individual
-- :name: "Kaxui\xC3\xA2na"
+- :name: Kaxuiâna
   :iso_639_1: 
   :iso_639_3: kbb
   :iso_639_2b: 
@@ -22231,7 +22231,7 @@
   :common: false
   :type: :extinct
   :scope: :individual
-- :name: "Kadiw\xC3\xA9u"
+- :name: Kadiwéu
   :iso_639_1: 
   :iso_639_3: kbc
   :iso_639_2b: 
@@ -22271,7 +22271,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Cams\xC3\xA1"
+- :name: Camsá
   :iso_639_1: 
   :iso_639_3: kbh
   :iso_639_2b: 
@@ -22335,7 +22335,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Kabiy\xC3\xA8"
+- :name: Kabiyè
   :iso_639_1: 
   :iso_639_3: kbp
   :iso_639_2b: 
@@ -22447,7 +22447,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Ngk\xC3\xA2lmpw Kanum"
+- :name: Ngkâlmpw Kanum
   :iso_639_1: 
   :iso_639_3: kcd
   :iso_639_2b: 
@@ -22823,7 +22823,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "K\xC3\xA9l\xC3\xA9"
+- :name: Kélé
   :iso_639_1: 
   :iso_639_3: keb
   :iso_639_2b: 
@@ -22895,7 +22895,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Kekch\xC3\xAD"
+- :name: Kekchí
   :iso_639_1: 
   :iso_639_3: kek
   :iso_639_2b: 
@@ -23135,7 +23135,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Koro (C\xC3\xB4te d'Ivoire)"
+- :name: Koro (Côte d'Ivoire)
   :iso_639_1: 
   :iso_639_3: kfo
   :iso_639_2b: 
@@ -23223,7 +23223,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Koromf\xC3\xA9"
+- :name: Koromfé
   :iso_639_1: 
   :iso_639_3: kfz
   :iso_639_2b: 
@@ -23311,7 +23311,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Kaiw\xC3\xA1"
+- :name: Kaiwá
   :iso_639_1: 
   :iso_639_3: kgk
   :iso_639_2b: 
@@ -23327,7 +23327,7 @@
   :common: false
   :type: :extinct
   :scope: :individual
-- :name: "Karip\xC3\xBAna"
+- :name: Karipúna
   :iso_639_1: 
   :iso_639_3: kgm
   :iso_639_2b: 
@@ -23439,7 +23439,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "L\xC3\xBC"
+- :name: Lü
   :iso_639_1: 
   :iso_639_3: khb
   :iso_639_2b: 
@@ -23455,7 +23455,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "B\xC3\xA4di Kanum"
+- :name: Bädi Kanum
   :iso_639_1: 
   :iso_639_3: khd
   :iso_639_2b: 
@@ -23935,7 +23935,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Kh\xC3\xA1ng"
+- :name: Kháng
   :iso_639_1: 
   :iso_639_3: kjm
   :iso_639_2b: 
@@ -24087,7 +24087,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Kh\xC3\xBCn"
+- :name: Khün
   :iso_639_1: 
   :iso_639_3: kkh
   :iso_639_2b: 
@@ -24495,7 +24495,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "K\xC3\xA2te"
+- :name: Kâte
   :iso_639_1: 
   :iso_639_3: kmg
   :iso_639_2b: 
@@ -24615,7 +24615,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Karip\xC3\xBAna Creole French"
+- :name: Karipúna Creole French
   :iso_639_1: 
   :iso_639_3: kmv
   :iso_639_2b: 
@@ -24743,7 +24743,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Kanamar\xC3\xAD"
+- :name: Kanamarí
   :iso_639_1: 
   :iso_639_3: knm
   :iso_639_2b: 
@@ -24799,7 +24799,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Panoan Katuk\xC3\xADna"
+- :name: Panoan Katukína
   :iso_639_1: 
   :iso_639_3: knt
   :iso_639_2b: 
@@ -24847,7 +24847,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Kalams\xC3\xA9"
+- :name: Kalamsé
   :iso_639_1: 
   :iso_639_3: knz
   :iso_639_2b: 
@@ -25127,7 +25127,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Karaj\xC3\xA1"
+- :name: Karajá
   :iso_639_1: 
   :iso_639_3: kpj
   :iso_639_2b: 
@@ -25159,7 +25159,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Kepkiriw\xC3\xA1t"
+- :name: Kepkiriwát
   :iso_639_1: 
   :iso_639_3: kpn
   :iso_639_2b: 
@@ -25383,7 +25383,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Kimr\xC3\xA9"
+- :name: Kimré
   :iso_639_1: 
   :iso_639_3: kqp
   :iso_639_2b: 
@@ -25503,7 +25503,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Panar\xC3\xA1"
+- :name: Panará
   :iso_639_1: 
   :iso_639_3: kre
   :iso_639_2b: 
@@ -25711,7 +25711,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "K\xC3\xB6lsch"
+- :name: Kölsch
   :iso_639_1: 
   :iso_639_3: ksh
   :iso_639_2b: 
@@ -25807,7 +25807,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Winy\xC3\xA9"
+- :name: Winyé
   :iso_639_1: 
   :iso_639_3: kst
   :iso_639_2b: 
@@ -25967,7 +25967,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Kariti\xC3\xA2na"
+- :name: Karitiâna
   :iso_639_1: 
   :iso_639_3: ktn
   :iso_639_2b: 
@@ -26047,7 +26047,7 @@
   :common: false
   :type: :extinct
   :scope: :individual
-- :name: "Kaxarar\xC3\xAD"
+- :name: Kaxararí
   :iso_639_1: 
   :iso_639_3: ktx
   :iso_639_2b: 
@@ -26055,7 +26055,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Kango (Bas-U\xC3\xA9l\xC3\xA9 District)"
+- :name: Kango (Bas-Uélé District)
   :iso_639_1: 
   :iso_639_3: kty
   :iso_639_2b: 
@@ -26095,7 +26095,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "'Auhelawa"
+- :name: ! '''Auhelawa'
   :iso_639_1: 
   :iso_639_3: kud
   :iso_639_2b: 
@@ -26135,7 +26135,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Kuik\xC3\xBAro-Kalap\xC3\xA1lo"
+- :name: Kuikúro-Kalapálo
   :iso_639_1: 
   :iso_639_3: kui
   :iso_639_2b: 
@@ -26487,7 +26487,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "D\xC3\xA2w"
+- :name: Dâw
   :iso_639_1: 
   :iso_639_3: kwa
   :iso_639_2b: 
@@ -26655,7 +26655,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Sara Kaba N\xC3\xA1\xC3\xA0"
+- :name: Sara Kaba Náà
   :iso_639_1: 
   :iso_639_3: kwv
   :iso_639_2b: 
@@ -26799,7 +26799,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Kano\xC3\xA9"
+- :name: Kanoé
   :iso_639_1: 
   :iso_639_3: kxo
   :iso_639_2b: 
@@ -26815,7 +26815,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Sm\xC3\xA4rky Kanum"
+- :name: Smärky Kanum
   :iso_639_1: 
   :iso_639_3: kxq
   :iso_639_2b: 
@@ -27031,7 +27031,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Kuru\xC3\xA1ya"
+- :name: Kuruáya
   :iso_639_1: 
   :iso_639_3: kyr
   :iso_639_2b: 
@@ -27095,7 +27095,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Kayab\xC3\xAD"
+- :name: Kayabí
   :iso_639_1: 
   :iso_639_3: kyz
   :iso_639_2b: 
@@ -27279,7 +27279,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Karir\xC3\xAD-Xoc\xC3\xB3"
+- :name: Karirí-Xocó
   :iso_639_1: 
   :iso_639_3: kzw
   :iso_639_2b: 
@@ -27855,7 +27855,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "L\xC3\xA1adan"
+- :name: Láadan
   :iso_639_1: 
   :iso_639_3: ldn
   :iso_639_2b: 
@@ -27919,7 +27919,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Ly\xC3\xA9l\xC3\xA9"
+- :name: Lyélé
   :iso_639_1: 
   :iso_639_3: lee
   :iso_639_2b: 
@@ -28279,7 +28279,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Mlahs\xC3\xB6"
+- :name: Mlahsö
   :iso_639_1: 
   :iso_639_3: lhs
   :iso_639_2b: 
@@ -28567,7 +28567,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Lakond\xC3\xAA"
+- :name: Lakondê
   :iso_639_1: 
   :iso_639_3: lkd
   :iso_639_2b: 
@@ -28631,7 +28631,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "P\xC3\xA4ri"
+- :name: Päri
   :iso_639_1: 
   :iso_639_3: lkr
   :iso_639_2b: 
@@ -28847,7 +28847,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "P\xC3\xA9v\xC3\xA9"
+- :name: Pévé
   :iso_639_1: 
   :iso_639_3: lme
   :iso_639_2b: 
@@ -29175,7 +29175,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Loma (C\xC3\xB4te d'Ivoire)"
+- :name: Loma (Côte d'Ivoire)
   :iso_639_1: 
   :iso_639_3: loi
   :iso_639_2b: 
@@ -29247,7 +29247,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "T\xC3\xA9\xC3\xA9n"
+- :name: Téén
   :iso_639_1: 
   :iso_639_3: lor
   :iso_639_2b: 
@@ -29607,7 +29607,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Latund\xC3\xAA"
+- :name: Latundê
   :iso_639_1: 
   :iso_639_3: ltn
   :iso_639_2b: 
@@ -29999,7 +29999,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "San Jer\xC3\xB3nimo Tec\xC3\xB3atl Mazatec"
+- :name: San Jerónimo Tecóatl Mazatec
   :iso_639_1: 
   :iso_639_3: maa
   :iso_639_2b: 
@@ -30063,7 +30063,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Jalapa De D\xC3\xADaz Mazatec"
+- :name: Jalapa De Díaz Mazatec
   :iso_639_1: 
   :iso_639_3: maj
   :iso_639_2b: 
@@ -30103,7 +30103,7 @@
   :common: false
   :type: :living
   :scope: :macro_language
-- :name: "Chiquihuitl\xC3\xA1n Mazatec"
+- :name: Chiquihuitlán Mazatec
   :iso_639_1: 
   :iso_639_3: maq
   :iso_639_2b: 
@@ -30143,7 +30143,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Sater\xC3\xA9-Maw\xC3\xA9"
+- :name: Sateré-Mawé
   :iso_639_1: 
   :iso_639_3: mav
   :iso_639_2b: 
@@ -30239,7 +30239,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Nad\xC3\xABb"
+- :name: Nadëb
   :iso_639_1: 
   :iso_639_3: mbj
   :iso_639_2b: 
@@ -30255,7 +30255,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Maxakal\xC3\xAD"
+- :name: Maxakalí
   :iso_639_1: 
   :iso_639_3: mbl
   :iso_639_2b: 
@@ -30271,7 +30271,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Macagu\xC3\xA1n"
+- :name: Macaguán
   :iso_639_1: 
   :iso_639_3: mbn
   :iso_639_2b: 
@@ -30303,7 +30303,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Nukak Mak\xC3\xBA"
+- :name: Nukak Makú
   :iso_639_1: 
   :iso_639_3: mbr
   :iso_639_2b: 
@@ -30415,7 +30415,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Mats\xC3\xA9s"
+- :name: Matsés
   :iso_639_1: 
   :iso_639_3: mcf
   :iso_639_2b: 
@@ -30487,7 +30487,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Coatl\xC3\xA1n Mixe"
+- :name: Coatlán Mixe
   :iso_639_1: 
   :iso_639_3: mco
   :iso_639_2b: 
@@ -30743,7 +30743,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Santa Luc\xC3\xADa Monteverde Mixtec"
+- :name: Santa Lucía Monteverde Mixtec
   :iso_639_1: 
   :iso_639_3: mdv
   :iso_639_2b: 
@@ -30775,7 +30775,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Suru\xC3\xAD Do Par\xC3\xA1"
+- :name: Suruí Do Pará
   :iso_639_1: 
   :iso_639_3: mdz
   :iso_639_2b: 
@@ -31503,7 +31503,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "M\xC3\xB3cheno"
+- :name: Mócheno
   :iso_639_1: 
   :iso_639_3: mhn
   :iso_639_2b: 
@@ -31607,7 +31607,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Atatl\xC3\xA1huca Mixtec"
+- :name: Atatláhuca Mixtec
   :iso_639_1: 
   :iso_639_3: mib
   :iso_639_2b: 
@@ -31663,7 +31663,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Chigmecatitl\xC3\xA1n Mixtec"
+- :name: Chigmecatitlán Mixtec
   :iso_639_1: 
   :iso_639_3: mii
   :iso_639_2b: 
@@ -31687,7 +31687,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Pe\xC3\xB1oles Mixtec"
+- :name: Peñoles Mixtec
   :iso_639_1: 
   :iso_639_3: mil
   :iso_639_2b: 
@@ -31727,7 +31727,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "M\xC3\xADskito"
+- :name: Mískito
   :iso_639_1: 
   :iso_639_3: miq
   :iso_639_2b: 
@@ -32399,7 +32399,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Michoac\xC3\xA1n Mazahua"
+- :name: Michoacán Mazahua
   :iso_639_1: 
   :iso_639_3: mmc
   :iso_639_2b: 
@@ -32439,7 +32439,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Mehin\xC3\xA1ku"
+- :name: Mehináku
   :iso_639_1: 
   :iso_639_3: mmh
   :iso_639_2b: 
@@ -32607,7 +32607,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Mond\xC3\xA9"
+- :name: Mondé
   :iso_639_1: 
   :iso_639_3: mnd
   :iso_639_2b: 
@@ -32791,7 +32791,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Mocov\xC3\xAD"
+- :name: Mocoví
   :iso_639_1: 
   :iso_639_3: moc
   :iso_639_2b: 
@@ -32879,7 +32879,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Mop\xC3\xA1n Maya"
+- :name: Mopán Maya
   :iso_639_1: 
   :iso_639_3: mop
   :iso_639_2b: 
@@ -32911,7 +32911,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Bar\xC3\xAD"
+- :name: Barí
   :iso_639_1: 
   :iso_639_3: mot
   :iso_639_2b: 
@@ -33055,7 +33055,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Yosond\xC3\xBAa Mixtec"
+- :name: Yosondúa Mixtec
   :iso_639_1: 
   :iso_639_3: mpm
   :iso_639_2b: 
@@ -33087,7 +33087,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Mat\xC3\xADs"
+- :name: Matís
   :iso_639_1: 
   :iso_639_3: mpq
   :iso_639_2b: 
@@ -33119,7 +33119,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Makur\xC3\xA1p"
+- :name: Makuráp
   :iso_639_1: 
   :iso_639_3: mpu
   :iso_639_2b: 
@@ -33679,7 +33679,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Vur\xC3\xABs"
+- :name: Vurës
   :iso_639_1: 
   :iso_639_3: msn
   :iso_639_2b: 
@@ -33695,7 +33695,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Maritsau\xC3\xA1"
+- :name: Maritsauá
   :iso_639_1: 
   :iso_639_3: msp
   :iso_639_2b: 
@@ -33895,7 +33895,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Wich\xC3\xAD Lhamt\xC3\xA9s Nocten"
+- :name: Wichí Lhamtés Nocten
   :iso_639_1: 
   :iso_639_3: mtp
   :iso_639_2b: 
@@ -33959,7 +33959,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Tida\xC3\xA1 Mixtec"
+- :name: Tidaá Mixtec
   :iso_639_1: 
   :iso_639_3: mtx
   :iso_639_2b: 
@@ -34023,7 +34023,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "M\xC3\xBCnd\xC3\xBC"
+- :name: Mündü
   :iso_639_1: 
   :iso_639_3: muh
   :iso_639_2b: 
@@ -34199,7 +34199,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Yucua\xC3\xB1e Mixtec"
+- :name: Yucuañe Mixtec
   :iso_639_1: 
   :iso_639_3: mvg
   :iso_639_2b: 
@@ -34479,7 +34479,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "M\xC3\xBCn Chin"
+- :name: Mün Chin
   :iso_639_1: 
   :iso_639_3: mwq
   :iso_639_2b: 
@@ -34567,7 +34567,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Tezoatl\xC3\xA1n Mixtec"
+- :name: Tezoatlán Mixtec
   :iso_639_1: 
   :iso_639_3: mxb
   :iso_639_2b: 
@@ -34727,7 +34727,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Metlat\xC3\xB3noc Mixtec"
+- :name: Metlatónoc Mixtec
   :iso_639_1: 
   :iso_639_3: mxv
   :iso_639_2b: 
@@ -34751,7 +34751,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Southeastern Nochixtl\xC3\xA1n Mixtec"
+- :name: Southeastern Nochixtlán Mixtec
   :iso_639_1: 
   :iso_639_3: mxy
   :iso_639_2b: 
@@ -34879,7 +34879,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Pirah\xC3\xA3"
+- :name: Pirahã
   :iso_639_1: 
   :iso_639_3: myp
   :iso_639_2b: 
@@ -34911,7 +34911,7 @@
   :common: false
   :type: :extinct
   :scope: :individual
-- :name: "Munduruk\xC3\xBA"
+- :name: Mundurukú
   :iso_639_1: 
   :iso_639_3: myu
   :iso_639_2b: 
@@ -34959,7 +34959,7 @@
   :common: false
   :type: :historical
   :scope: :individual
-- :name: "Santa Mar\xC3\xADa Zacatepec Mixtec"
+- :name: Santa María Zacatepec Mixtec
   :iso_639_1: 
   :iso_639_3: mza
   :iso_639_2b: 
@@ -35007,7 +35007,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Wich\xC3\xAD Lhamt\xC3\xA9s G\xC3\xBCisnay"
+- :name: Wichí Lhamtés Güisnay
   :iso_639_1: 
   :iso_639_3: mzh
   :iso_639_2b: 
@@ -35015,7 +35015,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Ixcatl\xC3\xA1n Mazatec"
+- :name: Ixcatlán Mazatec
   :iso_639_1: 
   :iso_639_3: mzi
   :iso_639_2b: 
@@ -35039,7 +35039,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Mazatl\xC3\xA1n Mixe"
+- :name: Mazatlán Mixe
   :iso_639_1: 
   :iso_639_3: mzl
   :iso_639_2b: 
@@ -35087,7 +35087,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Mar\xC3\xBAbo"
+- :name: Marúbo
   :iso_639_1: 
   :iso_639_3: mzr
   :iso_639_2b: 
@@ -35167,7 +35167,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Southern Nambiku\xC3\xA1ra"
+- :name: Southern Nambikuára
   :iso_639_1: 
   :iso_639_3: nab
   :iso_639_2b: 
@@ -35631,7 +35631,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Michoac\xC3\xA1n Nahuatl"
+- :name: Michoacán Nahuatl
   :iso_639_1: 
   :iso_639_3: ncl
   :iso_639_2b: 
@@ -35935,7 +35935,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Toura (C\xC3\xB4te d'Ivoire)"
+- :name: Toura (Côte d'Ivoire)
   :iso_639_1: 
   :iso_639_3: neb
   :iso_639_2b: 
@@ -35959,7 +35959,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "N\xC3\xAAl\xC3\xAAmwa-Nixumwak"
+- :name: Nêlêmwa-Nixumwak
   :iso_639_1: 
   :iso_639_3: nee
   :iso_639_2b: 
@@ -36031,7 +36031,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "N\xC3\xA1-Meo"
+- :name: Ná-Meo
   :iso_639_1: 
   :iso_639_3: neo
   :iso_639_2b: 
@@ -36383,7 +36383,7 @@
   :common: false
   :type: :extinct
   :scope: :individual
-- :name: "Chirip\xC3\xA1"
+- :name: Chiripá
   :iso_639_1: 
   :iso_639_3: nhd
   :iso_639_2b: 
@@ -36423,7 +36423,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Zacatl\xC3\xA1n-Ahuacatl\xC3\xA1n-Tepetzintla Nahuatl"
+- :name: Zacatlán-Ahuacatlán-Tepetzintla Nahuatl
   :iso_639_1: 
   :iso_639_3: nhi
   :iso_639_2b: 
@@ -36535,7 +36535,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Santa Mar\xC3\xADa La Alta Nahuatl"
+- :name: Santa María La Alta Nahuatl
   :iso_639_1: 
   :iso_639_3: nhz
   :iso_639_2b: 
@@ -37183,7 +37183,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Nal\xC3\xB6go"
+- :name: Nalögo
   :iso_639_1: 
   :iso_639_3: nlz
   :iso_639_2b: 
@@ -37295,7 +37295,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "!X\xC3\xB3\xC3\xB5"
+- :name: ! '!Xóõ'
   :iso_639_1: 
   :iso_639_3: nmn
   :iso_639_2b: 
@@ -37615,7 +37615,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Norwegian Bokm\xC3\xA5l"
+- :name: Norwegian Bokmål
   :iso_639_1: nb
   :iso_639_3: nob
   :iso_639_2b: nob
@@ -37695,7 +37695,7 @@
   :common: false
   :type: :extinct
   :scope: :individual
-- :name: "Nocam\xC3\xA1n"
+- :name: Nocamán
   :iso_639_1: 
   :iso_639_3: nom
   :iso_639_2b: 
@@ -37728,7 +37728,7 @@
   :type: :living
   :scope: :individual
 - :name: Norwegian
-  :iso_639_1: "no"
+  :iso_639_1: 'no'
   :iso_639_3: nor
   :iso_639_2b: nor
   :iso_639_2t: nor
@@ -38279,7 +38279,7 @@
   :common: false
   :type: :extinct
   :scope: :individual
-- :name: "Nat\xC3\xBCgu"
+- :name: Natügu
   :iso_639_1: 
   :iso_639_3: ntu
   :iso_639_2b: 
@@ -38415,7 +38415,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Ngu\xC3\xB4n"
+- :name: Nguôn
   :iso_639_1: 
   :iso_639_3: nuo
   :iso_639_2b: 
@@ -38999,7 +38999,7 @@
   :common: false
   :type: :historical
   :scope: :individual
-- :name: "Obispe\xC3\xB1o"
+- :name: Obispeño
   :iso_639_1: 
   :iso_639_3: obi
   :iso_639_2b: 
@@ -39759,7 +39759,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "\xC3\x96nge"
+- :name: Önge
   :iso_639_1: 
   :iso_639_3: oon
   :iso_639_2b: 
@@ -39823,7 +39823,7 @@
   :common: false
   :type: :extinct
   :scope: :individual
-- :name: "Ofay\xC3\xA9"
+- :name: Ofayé
   :iso_639_1: 
   :iso_639_3: opy
   :iso_639_2b: 
@@ -39847,7 +39847,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Orej\xC3\xB3n"
+- :name: Orejón
   :iso_639_1: 
   :iso_639_3: ore
   :iso_639_2b: 
@@ -40111,7 +40111,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Quer\xC3\xA9taro Otomi"
+- :name: Querétaro Otomi
   :iso_639_1: 
   :iso_639_3: otq
   :iso_639_2b: 
@@ -40127,7 +40127,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Estado de M\xC3\xA9xico Otomi"
+- :name: Estado de México Otomi
   :iso_639_1: 
   :iso_639_3: ots
   :iso_639_2b: 
@@ -40223,7 +40223,7 @@
   :common: false
   :type: :extinct
   :scope: :individual
-- :name: "!O!ung"
+- :name: ! '!O!ung'
   :iso_639_1: 
   :iso_639_3: oun
   :iso_639_2b: 
@@ -40287,7 +40287,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Parec\xC3\xADs"
+- :name: Parecís
   :iso_639_1: 
   :iso_639_3: pab
   :iso_639_2b: 
@@ -40303,7 +40303,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Paumar\xC3\xAD"
+- :name: Paumarí
   :iso_639_1: 
   :iso_639_3: pad
   :iso_639_2b: 
@@ -40319,7 +40319,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Paranaw\xC3\xA1t"
+- :name: Paranawát
   :iso_639_1: 
   :iso_639_3: paf
   :iso_639_2b: 
@@ -40351,7 +40351,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Parakan\xC3\xA3"
+- :name: Parakanã
   :iso_639_1: 
   :iso_639_3: pak
   :iso_639_2b: 
@@ -40439,7 +40439,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Paka\xC3\xA1snovos"
+- :name: Pakaásnovos
   :iso_639_1: 
   :iso_639_3: pav
   :iso_639_2b: 
@@ -40455,7 +40455,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Pankarar\xC3\xA9"
+- :name: Pankararé
   :iso_639_1: 
   :iso_639_3: pax
   :iso_639_2b: 
@@ -40471,7 +40471,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Pankarar\xC3\xBA"
+- :name: Pankararú
   :iso_639_1: 
   :iso_639_3: paz
   :iso_639_2b: 
@@ -40479,7 +40479,7 @@
   :common: false
   :type: :extinct
   :scope: :individual
-- :name: "P\xC3\xA1ez"
+- :name: Páez
   :iso_639_1: 
   :iso_639_3: pbb
   :iso_639_2b: 
@@ -40519,7 +40519,7 @@
   :common: false
   :type: :extinct
   :scope: :individual
-- :name: "E'\xC3\xB1apa Woromaipu"
+- :name: E'ñapa Woromaipu
   :iso_639_1: 
   :iso_639_3: pbh
   :iso_639_2b: 
@@ -40623,7 +40623,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Santa In\xC3\xA9s Ahuatempan Popoloca"
+- :name: Santa Inés Ahuatempan Popoloca
   :iso_639_1: 
   :iso_639_3: pca
   :iso_639_2b: 
@@ -40943,7 +40943,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "P\xC3\xA9mono"
+- :name: Pémono
   :iso_639_1: 
   :iso_639_3: pev
   :iso_639_2b: 
@@ -40975,7 +40975,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "P\xC3\xA1\xC3\xA1fang"
+- :name: Pááfang
   :iso_639_1: 
   :iso_639_3: pfa
   :iso_639_2b: 
@@ -41391,7 +41391,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Ardham\xC4\x81gadh\xC4\xAB Pr\xC4\x81krit"
+- :name: Ardhamāgadhī Prākrit
   :iso_639_1: 
   :iso_639_3: pka
   :iso_639_2b: 
@@ -41439,7 +41439,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "P\xC3\xB6koot"
+- :name: Pökoot
   :iso_639_1: 
   :iso_639_3: pko
   :iso_639_2b: 
@@ -41527,7 +41527,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Pilag\xC3\xA1"
+- :name: Pilagá
   :iso_639_1: 
   :iso_639_3: plg
   :iso_639_2b: 
@@ -41631,7 +41631,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Palik\xC3\xBAr"
+- :name: Palikúr
   :iso_639_1: 
   :iso_639_3: plu
   :iso_639_2b: 
@@ -41711,7 +41711,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "M\xC4\x81h\xC4\x81r\xC4\x81\xE1\xB9\xA3\xE1\xB9\xADri Pr\xC4\x81krit"
+- :name: Māhārāṣṭri Prākrit
   :iso_639_1: 
   :iso_639_3: pmh
   :iso_639_2b: 
@@ -42047,7 +42047,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Potigu\xC3\xA1ra"
+- :name: Potiguára
   :iso_639_1: 
   :iso_639_3: pog
   :iso_639_2b: 
@@ -42071,7 +42071,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Pokang\xC3\xA1"
+- :name: Pokangá
   :iso_639_1: 
   :iso_639_3: pok
   :iso_639_2b: 
@@ -42271,7 +42271,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "San Lu\xC3\xADs Temalacayuca Popoloca"
+- :name: San Luís Temalacayuca Popoloca
   :iso_639_1: 
   :iso_639_3: pps
   :iso_639_2b: 
@@ -42367,7 +42367,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Paic\xC3\xAE"
+- :name: Paicî
   :iso_639_1: 
   :iso_639_3: pri
   :iso_639_2b: 
@@ -42407,7 +42407,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Old Proven\xC3\xA7al (to 1500)"
+- :name: Old Provençal (to 1500)
   :iso_639_1: 
   :iso_639_3: pro
   :iso_639_2b: pro
@@ -42423,7 +42423,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Ash\xC3\xA9ninka Peren\xC3\xA9"
+- :name: Ashéninka Perené
   :iso_639_1: 
   :iso_639_3: prq
   :iso_639_2b: 
@@ -42623,7 +42623,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Sauraseni Pr\xC4\x81krit"
+- :name: Sauraseni Prākrit
   :iso_639_1: 
   :iso_639_3: psu
   :iso_639_2b: 
@@ -42655,7 +42655,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Patax\xC3\xB3 H\xC3\xA3-Ha-H\xC3\xA3e"
+- :name: Pataxó Hã-Ha-Hãe
   :iso_639_1: 
   :iso_639_3: pth
   :iso_639_2b: 
@@ -42679,7 +42679,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Zo'\xC3\xA9"
+- :name: Zo'é
   :iso_639_1: 
   :iso_639_3: pto
   :iso_639_2b: 
@@ -42855,7 +42855,7 @@
   :common: false
   :type: :extinct
   :scope: :individual
-- :name: "Purubor\xC3\xA1"
+- :name: Puruborá
   :iso_639_1: 
   :iso_639_3: pur
   :iso_639_2b: 
@@ -42903,7 +42903,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Purisime\xC3\xB1o"
+- :name: Purisimeño
   :iso_639_1: 
   :iso_639_3: puy
   :iso_639_2b: 
@@ -43007,7 +43007,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Poyan\xC3\xA1wa"
+- :name: Poyanáwa
   :iso_639_1: 
   :iso_639_3: pyn
   :iso_639_2b: 
@@ -43063,7 +43063,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Huallaga Hu\xC3\xA1nuco Quechua"
+- :name: Huallaga Huánuco Quechua
   :iso_639_1: 
   :iso_639_3: qub
   :iso_639_2b: 
@@ -43079,7 +43079,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Calder\xC3\xB3n Highland Quichua"
+- :name: Calderón Highland Quichua
   :iso_639_1: 
   :iso_639_3: qud
   :iso_639_2b: 
@@ -43247,7 +43247,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Eastern Apur\xC3\xADmac Quechua"
+- :name: Eastern Apurímac Quechua
   :iso_639_1: 
   :iso_639_3: qve
   :iso_639_2b: 
@@ -43255,7 +43255,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Huamal\xC3\xADes-Dos de Mayo Hu\xC3\xA1nuco Quechua"
+- :name: Huamalíes-Dos de Mayo Huánuco Quechua
   :iso_639_1: 
   :iso_639_3: qvh
   :iso_639_2b: 
@@ -43295,7 +43295,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "North Jun\xC3\xADn Quechua"
+- :name: North Junín Quechua
   :iso_639_1: 
   :iso_639_3: qvn
   :iso_639_2b: 
@@ -43319,7 +43319,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "San Mart\xC3\xADn Quechua"
+- :name: San Martín Quechua
   :iso_639_1: 
   :iso_639_3: qvs
   :iso_639_2b: 
@@ -43399,7 +43399,7 @@
   :common: false
   :type: :extinct
   :scope: :individual
-- :name: "Chiqui\xC3\xA1n Ancash Quechua"
+- :name: Chiquián Ancash Quechua
   :iso_639_1: 
   :iso_639_3: qxa
   :iso_639_2b: 
@@ -43415,7 +43415,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Panao Hu\xC3\xA1nuco Quechua"
+- :name: Panao Huánuco Quechua
   :iso_639_1: 
   :iso_639_3: qxh
   :iso_639_2b: 
@@ -43463,7 +43463,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Ca\xC3\xB1ar Highland Quichua"
+- :name: Cañar Highland Quichua
   :iso_639_1: 
   :iso_639_3: qxr
   :iso_639_2b: 
@@ -43487,7 +43487,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Arequipa-La Uni\xC3\xB3n Quechua"
+- :name: Arequipa-La Unión Quechua
   :iso_639_1: 
   :iso_639_3: qxu
   :iso_639_2b: 
@@ -43743,7 +43743,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "R\xC3\xA9union Creole French"
+- :name: Réunion Creole French
   :iso_639_1: 
   :iso_639_3: rcf
   :iso_639_2b: 
@@ -43895,7 +43895,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Res\xC3\xADgaro"
+- :name: Resígaro
   :iso_639_1: 
   :iso_639_3: rgr
   :iso_639_2b: 
@@ -44199,7 +44199,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Cal\xC3\xB3"
+- :name: Caló
   :iso_639_1: 
   :iso_639_3: rmq
   :iso_639_2b: 
@@ -44759,7 +44759,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Saban\xC3\xAA"
+- :name: Sabanê
   :iso_639_1: 
   :iso_639_3: sae
   :iso_639_2b: 
@@ -44831,7 +44831,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Sanapan\xC3\xA1"
+- :name: Sanapaná
   :iso_639_1: 
   :iso_639_3: sap
   :iso_639_2b: 
@@ -45031,7 +45031,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Sab\xC3\xBCm"
+- :name: Sabüm
   :iso_639_1: 
   :iso_639_3: sbo
   :iso_639_2b: 
@@ -45527,7 +45527,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Nanerig\xC3\xA9 S\xC3\xA9noufo"
+- :name: Nanerigé Sénoufo
   :iso_639_1: 
   :iso_639_3: sen
   :iso_639_2b: 
@@ -45543,7 +45543,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "S\xC3\xACc\xC3\xACt\xC3\xA9 S\xC3\xA9noufo"
+- :name: Sìcìté Sénoufo
   :iso_639_1: 
   :iso_639_3: sep
   :iso_639_2b: 
@@ -45551,7 +45551,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Senara S\xC3\xA9noufo"
+- :name: Senara Sénoufo
   :iso_639_1: 
   :iso_639_3: seq
   :iso_639_2b: 
@@ -46367,7 +46367,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Sakirabi\xC3\xA1"
+- :name: Sakirabiá
   :iso_639_1: 
   :iso_639_3: skf
   :iso_639_2b: 
@@ -46527,7 +46527,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "S\xC3\xA1liba"
+- :name: Sáliba
   :iso_639_1: 
   :iso_639_3: slc
   :iso_639_2b: 
@@ -46583,7 +46583,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Salum\xC3\xA1"
+- :name: Salumá
   :iso_639_1: 
   :iso_639_3: slj
   :iso_639_2b: 
@@ -47319,7 +47319,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Sap\xC3\xA9"
+- :name: Sapé
   :iso_639_1: 
   :iso_639_3: spc
   :iso_639_2b: 
@@ -47663,7 +47663,7 @@
   :common: true
   :type: :living
   :scope: :individual
-- :name: "Sirion\xC3\xB3"
+- :name: Sirionó
   :iso_639_1: 
   :iso_639_3: srq
   :iso_639_2b: 
@@ -47695,7 +47695,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Suru\xC3\xAD"
+- :name: Suruí
   :iso_639_1: 
   :iso_639_3: sru
   :iso_639_2b: 
@@ -47879,7 +47879,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "S\xC3\xB4"
+- :name: Sô
   :iso_639_1: 
   :iso_639_3: sss
   :iso_639_2b: 
@@ -48247,7 +48247,7 @@
   :common: false
   :type: :ancient
   :scope: :individual
-- :name: "Suy\xC3\xA1"
+- :name: Suyá
   :iso_639_1: 
   :iso_639_3: suy
   :iso_639_2b: 
@@ -48503,7 +48503,7 @@
   :common: false
   :type: :extinct
   :scope: :individual
-- :name: "Suruah\xC3\xA1"
+- :name: Suruahá
   :iso_639_1: 
   :iso_639_3: swx
   :iso_639_2b: 
@@ -48855,7 +48855,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Tapirap\xC3\xA9"
+- :name: Tapirapé
   :iso_639_1: 
   :iso_639_3: taf
   :iso_639_2b: 
@@ -49015,7 +49015,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Aikan\xC3\xA3"
+- :name: Aikanã
   :iso_639_1: 
   :iso_639_3: tba
   :iso_639_2b: 
@@ -49279,7 +49279,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "W\xC3\xA1ra"
+- :name: Wára
   :iso_639_1: 
   :iso_639_3: tci
   :iso_639_2b: 
@@ -49367,7 +49367,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Tecpatl\xC3\xA1n Totonac"
+- :name: Tecpatlán Totonac
   :iso_639_1: 
   :iso_639_3: tcw
   :iso_639_2b: 
@@ -49415,7 +49415,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Ember\xC3\xA1-Tad\xC3\xB3"
+- :name: Emberá-Tadó
   :iso_639_1: 
   :iso_639_3: tdc
   :iso_639_2b: 
@@ -49423,7 +49423,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Tai N\xC3\xBCa"
+- :name: Tai Nüa
   :iso_639_1: 
   :iso_639_3: tdd
   :iso_639_2b: 
@@ -50279,7 +50279,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Ti\xC3\xA9fo"
+- :name: Tiéfo
   :iso_639_1: 
   :iso_639_3: tiq
   :iso_639_2b: 
@@ -50423,7 +50423,7 @@
   :common: false
   :type: :extinct
   :scope: :individual
-- :name: "Truk\xC3\xA1"
+- :name: Truká
   :iso_639_1: 
   :iso_639_3: tka
   :iso_639_2b: 
@@ -50455,7 +50455,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Tukumanf\xC3\xA9d"
+- :name: Tukumanféd
   :iso_639_1: 
   :iso_639_3: tkf
   :iso_639_2b: 
@@ -50679,7 +50679,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Filomena Mata-Coahuitl\xC3\xA1n Totonac"
+- :name: Filomena Mata-Coahuitlán Totonac
   :iso_639_1: 
   :iso_639_3: tlp
   :iso_639_2b: 
@@ -50791,7 +50791,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Trememb\xC3\xA9"
+- :name: Tremembé
   :iso_639_1: 
   :iso_639_3: tme
   :iso_639_2b: 
@@ -50807,7 +50807,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Ternate\xC3\xB1o"
+- :name: Ternateño
   :iso_639_1: 
   :iso_639_3: tmg
   :iso_639_2b: 
@@ -50879,7 +50879,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Tai M\xC3\xA8ne"
+- :name: Tai Mène
   :iso_639_1: 
   :iso_639_3: tmp
   :iso_639_2b: 
@@ -50975,7 +50975,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Tanimuca-Retuar\xC3\xA3"
+- :name: Tanimuca-Retuarã
   :iso_639_1: 
   :iso_639_3: tnc
   :iso_639_2b: 
@@ -51247,7 +51247,7 @@
   :common: true
   :type: :living
   :scope: :individual
-- :name: "Xicotepec De Ju\xC3\xA1rez Totonac"
+- :name: Xicotepec De Juárez Totonac
   :iso_639_1: 
   :iso_639_3: too
   :iso_639_2b: 
@@ -51343,7 +51343,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Azoy\xC3\xBA Me'phaa"
+- :name: Azoyú Me'phaa
   :iso_639_1: 
   :iso_639_3: tpc
   :iso_639_2b: 
@@ -51383,7 +51383,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Tapiet\xC3\xA9"
+- :name: Tapieté
   :iso_639_1: 
   :iso_639_3: tpj
   :iso_639_2b: 
@@ -51415,7 +51415,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Tupinamb\xC3\xA1"
+- :name: Tupinambá
   :iso_639_1: 
   :iso_639_3: tpn
   :iso_639_2b: 
@@ -51447,7 +51447,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Tupar\xC3\xAD"
+- :name: Tuparí
   :iso_639_1: 
   :iso_639_3: tpr
   :iso_639_2b: 
@@ -51479,7 +51479,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Tup\xC3\xAD"
+- :name: Tupí
   :iso_639_1: 
   :iso_639_3: tpw
   :iso_639_2b: 
@@ -51511,7 +51511,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Temb\xC3\xA9"
+- :name: Tembé
   :iso_639_1: 
   :iso_639_3: tqb
   :iso_639_2b: 
@@ -51647,7 +51647,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Lish\xC3\xA1n Did\xC3\xA1n"
+- :name: Lishán Didán
   :iso_639_1: 
   :iso_639_3: trg
   :iso_639_2b: 
@@ -51663,7 +51663,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Tri\xC3\xB3"
+- :name: Trió
   :iso_639_1: 
   :iso_639_3: tri
   :iso_639_2b: 
@@ -51719,7 +51719,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "San Mart\xC3\xADn Itunyoso Triqui"
+- :name: San Martín Itunyoso Triqui
   :iso_639_1: 
   :iso_639_3: trq
   :iso_639_2b: 
@@ -51791,7 +51791,7 @@
   :common: false
   :type: :extinct
   :scope: :individual
-- :name: "Tor\xC3\xA1"
+- :name: Torá
   :iso_639_1: 
   :iso_639_3: trz
   :iso_639_2b: 
@@ -51887,7 +51887,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Ts'\xC3\xBCn-Lao"
+- :name: Ts'ün-Lao
   :iso_639_1: 
   :iso_639_3: tsl
   :iso_639_2b: 
@@ -52215,7 +52215,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "T\xC3\xBCbatulabal"
+- :name: Tübatulabal
   :iso_639_1: 
   :iso_639_3: tub
   :iso_639_2b: 
@@ -52231,7 +52231,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Tux\xC3\xA1"
+- :name: Tuxá
   :iso_639_1: 
   :iso_639_3: tud
   :iso_639_2b: 
@@ -52367,7 +52367,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Tuxin\xC3\xA1wa"
+- :name: Tuxináwa
   :iso_639_1: 
   :iso_639_3: tux
   :iso_639_2b: 
@@ -52543,7 +52543,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Tai D\xC3\xB3n"
+- :name: Tai Dón
   :iso_639_1: 
   :iso_639_3: twh
   :iso_639_2b: 
@@ -52615,7 +52615,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Turiw\xC3\xA1ra"
+- :name: Turiwára
   :iso_639_1: 
   :iso_639_3: twt
   :iso_639_2b: 
@@ -52767,7 +52767,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Kayap\xC3\xB3"
+- :name: Kayapó
   :iso_639_1: 
   :iso_639_3: txu
   :iso_639_2b: 
@@ -52863,7 +52863,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "T\xC3\xA0y Sa Pa"
+- :name: Tày Sa Pa
   :iso_639_1: 
   :iso_639_3: tys
   :iso_639_2b: 
@@ -52871,7 +52871,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "T\xC3\xA0y Tac"
+- :name: Tày Tac
   :iso_639_1: 
   :iso_639_3: tyt
   :iso_639_2b: 
@@ -52903,7 +52903,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "T\xC3\xA0y"
+- :name: Tày
   :iso_639_1: 
   :iso_639_3: tyz
   :iso_639_2b: 
@@ -52967,7 +52967,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Uamu\xC3\xA9"
+- :name: Uamué
   :iso_639_1: 
   :iso_639_3: uam
   :iso_639_2b: 
@@ -53271,7 +53271,7 @@
   :common: true
   :type: :living
   :scope: :individual
-- :name: "Urub\xC3\xBA-Kaapor Sign Language"
+- :name: Urubú-Kaapor Sign Language
   :iso_639_1: 
   :iso_639_3: uks
   :iso_639_2b: 
@@ -53447,7 +53447,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Umot\xC3\xADna"
+- :name: Umotína
   :iso_639_1: 
   :iso_639_3: umo
   :iso_639_2b: 
@@ -53519,7 +53519,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Enawen\xC3\xA9-Naw\xC3\xA9"
+- :name: Enawené-Nawé
   :iso_639_1: 
   :iso_639_3: unk
   :iso_639_2b: 
@@ -53599,7 +53599,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Urub\xC3\xBA-Kaapor"
+- :name: Urubú-Kaapor
   :iso_639_1: 
   :iso_639_3: urb
   :iso_639_2b: 
@@ -54151,7 +54151,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Venture\xC3\xB1o"
+- :name: Ventureño
   :iso_639_1: 
   :iso_639_3: veo
   :iso_639_2b: 
@@ -54407,7 +54407,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Mainfr\xC3\xA4nkisch"
+- :name: Mainfränkisch
   :iso_639_1: 
   :iso_639_3: vmf
   :iso_639_2b: 
@@ -54543,7 +54543,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Mazatl\xC3\xA1n Mazatec"
+- :name: Mazatlán Mazatec
   :iso_639_1: 
   :iso_639_3: vmz
   :iso_639_2b: 
@@ -54575,7 +54575,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Volap\xC3\xBCk"
+- :name: Volapük
   :iso_639_1: vo
   :iso_639_3: vol
   :iso_639_2b: vol
@@ -54607,7 +54607,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "V\xC3\xB5ro"
+- :name: Võro
   :iso_639_1: 
   :iso_639_3: vro
   :iso_639_2b: 
@@ -54735,7 +54735,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Wakon\xC3\xA1"
+- :name: Wakoná
   :iso_639_1: 
   :iso_639_3: waf
   :iso_639_2b: 
@@ -54847,7 +54847,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Waur\xC3\xA1"
+- :name: Waurá
   :iso_639_1: 
   :iso_639_3: wau
   :iso_639_2b: 
@@ -55023,7 +55023,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Yanom\xC3\xA1mi"
+- :name: Yanomámi
   :iso_639_1: 
   :iso_639_3: wca
   :iso_639_2b: 
@@ -55079,7 +55079,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "W\xC3\xA8 Western"
+- :name: Wè Western
   :iso_639_1: 
   :iso_639_3: wec
   :iso_639_2b: 
@@ -55359,7 +55359,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Wiraf\xC3\xA9d"
+- :name: Wiraféd
   :iso_639_1: 
   :iso_639_3: wir
   :iso_639_2b: 
@@ -55575,7 +55575,7 @@
   :common: false
   :type: :extinct
   :scope: :individual
-- :name: "Wich\xC3\xAD Lhamt\xC3\xA9s Vejoz"
+- :name: Wichí Lhamtés Vejoz
   :iso_639_1: 
   :iso_639_3: wlv
   :iso_639_2b: 
@@ -55631,7 +55631,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Mamaind\xC3\xA9"
+- :name: Mamaindé
   :iso_639_1: 
   :iso_639_3: wmd
   :iso_639_2b: 
@@ -55815,7 +55815,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "W\xC3\xA8 Northern"
+- :name: Wè Northern
   :iso_639_1: 
   :iso_639_3: wob
   :iso_639_2b: 
@@ -56359,7 +56359,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Wayor\xC3\xB3"
+- :name: Wayoró
   :iso_639_1: 
   :iso_639_3: wyr
   :iso_639_2b: 
@@ -56423,7 +56423,7 @@
   :common: false
   :type: :extinct
   :scope: :individual
-- :name: "Kaimb\xC3\xA9"
+- :name: Kaimbé
   :iso_639_1: 
   :iso_639_3: xai
   :iso_639_2b: 
@@ -56511,7 +56511,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Xav\xC3\xA1nte"
+- :name: Xavánte
   :iso_639_1: 
   :iso_639_3: xav
   :iso_639_2b: 
@@ -56599,7 +56599,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Kambiw\xC3\xA1"
+- :name: Kambiwá
   :iso_639_1: 
   :iso_639_3: xbw
   :iso_639_2b: 
@@ -56607,7 +56607,7 @@
   :common: false
   :type: :extinct
   :scope: :individual
-- :name: "Kabix\xC3\xAD"
+- :name: Kabixí
   :iso_639_1: 
   :iso_639_3: xbx
   :iso_639_2b: 
@@ -56807,7 +56807,7 @@
   :common: false
   :type: :ancient
   :scope: :individual
-- :name: "Xer\xC3\xA9nte"
+- :name: Xerénte
   :iso_639_1: 
   :iso_639_3: xer
   :iso_639_2b: 
@@ -56823,7 +56823,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Xet\xC3\xA1"
+- :name: Xetá
   :iso_639_1: 
   :iso_639_3: xet
   :iso_639_2b: 
@@ -56855,7 +56855,7 @@
   :common: false
   :type: :ancient
   :scope: :individual
-- :name: "Gabrielino-Fernande\xC3\xB1o"
+- :name: Gabrielino-Fernandeño
   :iso_639_1: 
   :iso_639_3: xgf
   :iso_639_2b: 
@@ -56991,7 +56991,7 @@
   :common: false
   :type: :extinct
   :scope: :individual
-- :name: "Xipin\xC3\xA1wa"
+- :name: Xipináwa
   :iso_639_1: 
   :iso_639_3: xip
   :iso_639_2b: 
@@ -56999,7 +56999,7 @@
   :common: false
   :type: :extinct
   :scope: :individual
-- :name: "Xiri\xC3\xA2na"
+- :name: Xiriâna
   :iso_639_1: 
   :iso_639_3: xir
   :iso_639_2b: 
@@ -57151,7 +57151,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Xakriab\xC3\xA1"
+- :name: Xakriabá
   :iso_639_1: 
   :iso_639_3: xkr
   :iso_639_2b: 
@@ -57655,7 +57655,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Xukur\xC3\xBA"
+- :name: Xukurú
   :iso_639_1: 
   :iso_639_3: xoo
   :iso_639_2b: 
@@ -57735,7 +57735,7 @@
   :common: false
   :type: :extinct
   :scope: :individual
-- :name: "Kapinaw\xC3\xA1"
+- :name: Kapinawá
   :iso_639_1: 
   :iso_639_3: xpn
   :iso_639_2b: 
@@ -57815,7 +57815,7 @@
   :common: false
   :type: :ancient
   :scope: :individual
-- :name: "Krah\xC3\xB4"
+- :name: Krahô
   :iso_639_1: 
   :iso_639_3: xra
   :iso_639_2b: 
@@ -57903,7 +57903,7 @@
   :common: false
   :type: :ancient
   :scope: :individual
-- :name: "Tin\xC3\xA0 Sambal"
+- :name: Tinà Sambal
   :iso_639_1: 
   :iso_639_3: xsb
   :iso_639_2b: 
@@ -58023,7 +58023,7 @@
   :common: false
   :type: :extinct
   :scope: :individual
-- :name: "Sanum\xC3\xA1"
+- :name: Sanumá
   :iso_639_1: 
   :iso_639_3: xsu
   :iso_639_2b: 
@@ -58119,7 +58119,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Magdalena Pe\xC3\xB1asco Mixtec"
+- :name: Magdalena Peñasco Mixtec
   :iso_639_1: 
   :iso_639_3: xtm
   :iso_639_2b: 
@@ -58191,7 +58191,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Tawand\xC3\xAA"
+- :name: Tawandê
   :iso_639_1: 
   :iso_639_3: xtw
   :iso_639_2b: 
@@ -58407,7 +58407,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Korop\xC3\xB3"
+- :name: Koropó
   :iso_639_1: 
   :iso_639_3: xxr
   :iso_639_2b: 
@@ -58487,7 +58487,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Pum\xC3\xA9"
+- :name: Pumé
   :iso_639_1: 
   :iso_639_3: yae
   :iso_639_2b: 
@@ -58503,7 +58503,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Y\xC3\xA1mana"
+- :name: Yámana
   :iso_639_1: 
   :iso_639_3: yag
   :iso_639_2b: 
@@ -58631,7 +58631,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Yawalapit\xC3\xAD"
+- :name: Yawalapití
   :iso_639_1: 
   :iso_639_3: yaw
   :iso_639_2b: 
@@ -58743,7 +58743,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Yaba\xC3\xA2na"
+- :name: Yabaâna
   :iso_639_1: 
   :iso_639_3: ybn
   :iso_639_2b: 
@@ -58913,7 +58913,7 @@
   :scope: :individual
 - :name: Yeskwa
   :iso_639_1: 
-  :iso_639_3: "yes"
+  :iso_639_3: 'yes'
   :iso_639_2b: 
   :iso_639_2t: 
   :common: false
@@ -59351,7 +59351,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Ny\xC3\xA2layu"
+- :name: Nyâlayu
   :iso_639_1: 
   :iso_639_3: yly
   :iso_639_2b: 
@@ -59783,7 +59783,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Yaour\xC3\xA9"
+- :name: Yaouré
   :iso_639_1: 
   :iso_639_3: yre
   :iso_639_2b: 
@@ -59791,7 +59791,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Yar\xC3\xAD"
+- :name: Yarí
   :iso_639_1: 
   :iso_639_3: yri
   :iso_639_2b: 
@@ -59999,7 +59999,7 @@
   :common: false
   :type: :extinct
   :scope: :individual
-- :name: "Yurut\xC3\xAD"
+- :name: Yurutí
   :iso_639_1: 
   :iso_639_3: yui
   :iso_639_2b: 
@@ -60231,7 +60231,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Sierra de Ju\xC3\xA1rez Zapotec"
+- :name: Sierra de Juárez Zapotec
   :iso_639_1: 
   :iso_639_3: zaa
   :iso_639_2b: 
@@ -60239,7 +60239,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "San Juan Guelav\xC3\xADa Zapotec"
+- :name: San Juan Guelavía Zapotec
   :iso_639_1: 
   :iso_639_3: zab
   :iso_639_2b: 
@@ -60247,7 +60247,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Ocotl\xC3\xA1n Zapotec"
+- :name: Ocotlán Zapotec
   :iso_639_1: 
   :iso_639_3: zac
   :iso_639_2b: 
@@ -60327,7 +60327,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Miahuatl\xC3\xA1n Zapotec"
+- :name: Miahuatlán Zapotec
   :iso_639_1: 
   :iso_639_3: zam
   :iso_639_2b: 
@@ -60351,7 +60351,7 @@
   :common: false
   :type: :living
   :scope: :macro_language
-- :name: "Alo\xC3\xA1pam Zapotec"
+- :name: Aloápam Zapotec
   :iso_639_1: 
   :iso_639_3: zaq
   :iso_639_2b: 
@@ -60359,7 +60359,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Rinc\xC3\xB3n Zapotec"
+- :name: Rincón Zapotec
   :iso_639_1: 
   :iso_639_3: zar
   :iso_639_2b: 
@@ -60743,7 +60743,7 @@
   :common: false
   :type: :extinct
   :scope: :individual
-- :name: "S\xC3\xA3o Paulo Kaing\xC3\xA1ng"
+- :name: São Paulo Kaingáng
   :iso_639_1: 
   :iso_639_3: zkp
   :iso_639_2b: 
@@ -61071,7 +61071,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Copainal\xC3\xA1 Zoque"
+- :name: Copainalá Zoque
   :iso_639_1: 
   :iso_639_3: zoc
   :iso_639_2b: 
@@ -61095,7 +61095,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Asunci\xC3\xB3n Mixtepec Zapotec"
+- :name: Asunción Mixtepec Zapotec
   :iso_639_1: 
   :iso_639_3: zoo
   :iso_639_2b: 
@@ -61111,7 +61111,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Ray\xC3\xB3n Zoque"
+- :name: Rayón Zoque
   :iso_639_1: 
   :iso_639_3: zor
   :iso_639_2b: 
@@ -61119,7 +61119,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Francisco Le\xC3\xB3n Zoque"
+- :name: Francisco León Zoque
   :iso_639_1: 
   :iso_639_3: zos
   :iso_639_2b: 
@@ -61151,7 +61151,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Southeastern Ixtl\xC3\xA1n Zapotec"
+- :name: Southeastern Ixtlán Zapotec
   :iso_639_1: 
   :iso_639_3: zpd
   :iso_639_2b: 
@@ -61191,7 +61191,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Santa Mar\xC3\xADa Quiegolani Zapotec"
+- :name: Santa María Quiegolani Zapotec
   :iso_639_1: 
   :iso_639_3: zpi
   :iso_639_2b: 
@@ -61215,7 +61215,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Lachix\xC3\xADo Zapotec"
+- :name: Lachixío Zapotec
   :iso_639_1: 
   :iso_639_3: zpl
   :iso_639_2b: 
@@ -61231,7 +61231,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Santa In\xC3\xA9s Yatzechi Zapotec"
+- :name: Santa Inés Yatzechi Zapotec
   :iso_639_1: 
   :iso_639_3: zpn
   :iso_639_2b: 
@@ -61239,7 +61239,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Amatl\xC3\xA1n Zapotec"
+- :name: Amatlán Zapotec
   :iso_639_1: 
   :iso_639_3: zpo
   :iso_639_2b: 
@@ -61271,7 +61271,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Coatl\xC3\xA1n Zapotec"
+- :name: Coatlán Zapotec
   :iso_639_1: 
   :iso_639_3: zps
   :iso_639_2b: 
@@ -61279,7 +61279,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "San Vicente Coatl\xC3\xA1n Zapotec"
+- :name: San Vicente Coatlán Zapotec
   :iso_639_1: 
   :iso_639_3: zpt
   :iso_639_2b: 
@@ -61287,7 +61287,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Yal\xC3\xA1lag Zapotec"
+- :name: Yalálag Zapotec
   :iso_639_1: 
   :iso_639_3: zpu
   :iso_639_2b: 
@@ -61367,7 +61367,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Z\xC3\xA1paro"
+- :name: Záparo
   :iso_639_1: 
   :iso_639_3: zro
   :iso_639_2b: 
@@ -61447,7 +61447,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Xanagu\xC3\xADa Zapotec"
+- :name: Xanaguía Zapotec
   :iso_639_1: 
   :iso_639_3: ztg
   :iso_639_2b: 
@@ -61455,7 +61455,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Lapagu\xC3\xADa-Guivini Zapotec"
+- :name: Lapaguía-Guivini Zapotec
   :iso_639_1: 
   :iso_639_3: ztl
   :iso_639_2b: 
@@ -61463,7 +61463,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "San Agust\xC3\xADn Mixtepec Zapotec"
+- :name: San Agustín Mixtepec Zapotec
   :iso_639_1: 
   :iso_639_3: ztm
   :iso_639_2b: 
@@ -61487,7 +61487,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "Quioquitani-Quier\xC3\xAD Zapotec"
+- :name: Quioquitani-Quierí Zapotec
   :iso_639_1: 
   :iso_639_3: ztq
   :iso_639_2b: 
@@ -61511,7 +61511,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: "G\xC3\xBCil\xC3\xA1 Zapotec"
+- :name: Güilá Zapotec
   :iso_639_1: 
   :iso_639_3: ztu
   :iso_639_2b: 
