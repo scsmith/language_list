@@ -35,15 +35,15 @@ module LanguageList
     end
 
     def self.find_by_iso_639_1(code)
-      LanguageList::ISO_639_1.detect{|l| l.iso_639_1 == code }
+      LanguageList::BY_ISO_639_1[code]
     end
 
     def self.find_by_iso_639_3(code)
-      LanguageList::ALL_LANGUAGES.detect{|l| l.iso_639_3 == code }
+      LanguageList::BY_ISO_639_3[code]
     end
 
     def self.find_by_name(name)
-      LanguageList::ALL_LANGUAGES.detect{|l| l.name == name }
+      LanguageList::BY_NAME[name]
     end
 
     def self.find(code)
@@ -61,4 +61,14 @@ module LanguageList
   ISO_639_1 = ALL_LANGUAGES.select(&:iso_639_1?)
   LIVING_LANGUAGES = ALL_LANGUAGES.select(&:living?)
   COMMON_LANGUAGES = ALL_LANGUAGES.select(&:common?)
+
+  BY_NAME      = {}
+  BY_ISO_639_1 = {}
+  BY_ISO_639_3 = {}
+  ALL_LANGUAGES.each do |lang|
+    BY_NAME[lang.name] = lang
+    BY_ISO_639_1[lang.iso_639_1] = lang if lang.iso_639_1
+    BY_ISO_639_3[lang.iso_639_3] = lang if lang.iso_639_3
+  end
+
 end
