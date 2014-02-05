@@ -1,10 +1,7 @@
-#!/usr/bin/env ruby
-
-$:.unshift(File.expand_path(File.join(File.dirname(__FILE__), '..', 'lib')))
-require 'test/unit'
+require 'minitest/autorun'
 require 'language_list'
 
-class LanguageListTest < Test::Unit::TestCase
+class LanguageListTest < Minitest::Test
   def test_all_languages
     assert_equal 7707, LanguageList::ALL_LANGUAGES.length
   end
