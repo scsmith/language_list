@@ -15,6 +15,10 @@ A list of languages based upon ISO-639-1 and ISO-639-3 with functions to retriev
     english.iso_639_3.inspect #=> "eng"
     english.common? #=> true
 
+## Testing
+
+    rake
+
 ## Thanks
 Thanks goes to Steve Hardie for his work on creating a list of common languages (http://stevehardie.com/2009/10/list-of-common-languages/).
 
