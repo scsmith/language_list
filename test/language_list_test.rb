@@ -66,4 +66,14 @@ class LanguageListTest < Minitest::Test
 
     assert_equal expected, sorted.map(&:name)
   end
+
+  def test_common_name_when_present
+    greek = LanguageList::LanguageInfo.find('el')
+    assert_equal 'Greek', greek.common_name
+  end
+
+  def test_common_name_when_not_present
+    english = LanguageList::LanguageInfo.find('en')
+    assert_equal english.name, english.common_name
+  end
 end

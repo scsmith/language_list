@@ -14224,6 +14224,7 @@
   :type: :living
   :scope: :individual
 - :name: Modern Greek (1453-)
+  :common_name: Greek
   :iso_639_1: el
   :iso_639_3: ell
   :iso_639_2b: gre

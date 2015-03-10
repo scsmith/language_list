@@ -6,10 +6,15 @@ module LanguageList
 
     def initialize(options)
       @name = options[:name]
+      @common_name = options[:common_name]
       @iso_639_3 = options[:iso_639_3]
       @iso_639_1 = options[:iso_639_1]
       @common = options[:common]
       @type = options[:type]
+    end
+
+    def common_name
+      @common_name || @name
     end
 
     def common?
