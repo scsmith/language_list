@@ -1,6 +1,8 @@
 # Language List
 A list of languages based upon ISO-639-1 and ISO-639-3 with functions to retrieve only common languages.
 
+[![Build Status](https://travis-ci.org/scsmith/language_list.svg?branch=master)](https://travis-ci.org/scsmith/language_list)
+
 ## Examples
     # Get an array of LanguageList::LanguageInfo classes
     all_languages = LanguageList::ALL_LANGUAGES
