@@ -1,8 +1,15 @@
 require 'yaml'
+require 'i18n'
+
+dir = File.dirname(__FILE__)
+$LOAD_PATH << dir unless $LOAD_PATH.include?(dir)
+
+I18n.load_path += Dir.glob File.join dir, '../config/locales/*.{rb,yml}'
+I18n.backend.load_translations
 
 module LanguageList
   class LanguageInfo
-    attr_reader :name, :iso_639_3, :iso_639_1, :type
+    attr_reader :iso_639_3, :iso_639_1, :type
 
     def initialize(options)
       @name = options[:name]
@@ -11,6 +18,10 @@ module LanguageList
       @iso_639_1 = options[:iso_639_1]
       @common = options[:common]
       @type = options[:type]
+    end
+
+    def name
+      I18n.t("language_list.names.#{iso_639_1}") || @name
     end
 
     def common_name
