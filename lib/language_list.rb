@@ -48,10 +48,11 @@ module LanguageList
     end
 
     def self.find_by_name(name)
-      LanguageList::BY_NAME[name]
+      LanguageList::BY_NAME[name.downcase]
     end
 
     def self.find(code)
+      code.downcase!
       find_by_iso_639_1(code) || find_by_iso_639_3(code) || find_by_name(code)
     end
   end
@@ -71,7 +72,7 @@ module LanguageList
   BY_ISO_639_1 = {}
   BY_ISO_639_3 = {}
   ALL_LANGUAGES.each do |lang|
-    BY_NAME[lang.name] = lang
+    BY_NAME[lang.name.downcase] = lang
     BY_ISO_639_1[lang.iso_639_1] = lang if lang.iso_639_1
     BY_ISO_639_3[lang.iso_639_3] = lang if lang.iso_639_3
   end
