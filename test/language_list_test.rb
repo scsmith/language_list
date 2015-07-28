@@ -39,6 +39,13 @@ class LanguageListTest < Minitest::Test
     assert_equal 'English', english.name
   end
 
+  def test_case_insensitive_find_by_name
+    english = LanguageList::LanguageInfo.find_by_name('english')
+    assert_equal 'en', english.iso_639_1
+    assert_equal 'eng', english.iso_639_3
+    assert_equal 'English', english.name
+  end
+
   def test_find_with_iso_639_1_code
     english = LanguageList::LanguageInfo.find('en')
     assert_equal 'en', english.iso_639_1
@@ -46,8 +53,22 @@ class LanguageListTest < Minitest::Test
     assert_equal 'English', english.name
   end
 
+  def test_case_insensitive_find_with_iso_639_1_code
+    english = LanguageList::LanguageInfo.find('EN')
+    assert_equal 'en', english.iso_639_1
+    assert_equal 'eng', english.iso_639_3
+    assert_equal 'English', english.name
+  end
+
   def test_find_with_iso_639_3_code
     english = LanguageList::LanguageInfo.find('eng')
+    assert_equal 'en', english.iso_639_1
+    assert_equal 'eng', english.iso_639_3
+    assert_equal 'English', english.name
+  end
+
+  def test_case_insensitive_find_with_iso_639_3_code
+    english = LanguageList::LanguageInfo.find('Eng')
     assert_equal 'en', english.iso_639_1
     assert_equal 'eng', english.iso_639_3
     assert_equal 'English', english.name
