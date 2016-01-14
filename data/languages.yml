@@ -50618,9 +50618,9 @@
   :scope: :individual
 - :name: Klingon
   :iso_639_1: kx
-  :iso_639_3: klx
-  :iso_639_2b: klx
-  :iso_639_2t: klx
+  :iso_639_3: kxg
+  :iso_639_2b: kxg
+  :iso_639_2t: kxg
   :common: true
   :type: :constructed
   :scope: :individual
