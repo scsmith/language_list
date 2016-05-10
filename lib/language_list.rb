@@ -2,12 +2,13 @@ require 'yaml'
 
 module LanguageList
   class LanguageInfo
-    attr_reader :name, :iso_639_3, :iso_639_1, :type
+    attr_reader :name, :iso_639_3, :iso_639_1, :iso_639_2b, :type
 
     def initialize(options)
       @name = options[:name]
       @common_name = options[:common_name]
       @iso_639_3 = options[:iso_639_3]
+      @iso_639_2b = options[:iso_639_2b]
       @iso_639_1 = options[:iso_639_1]
       @common = options[:common]
       @type = options[:type]
@@ -47,13 +48,17 @@ module LanguageList
       LanguageList::BY_ISO_639_3[code]
     end
 
+    def self.find_by_iso_639_2b(code)
+      LanguageList::BY_ISO_639_2B[code]
+    end
+
     def self.find_by_name(name)
       LanguageList::BY_NAME[name.downcase]
     end
 
     def self.find(code)
       code.downcase!
-      find_by_iso_639_1(code) || find_by_iso_639_3(code) || find_by_name(code)
+      find_by_iso_639_1(code) || find_by_iso_639_3(code) || find_by_iso_639_2b(code) || find_by_name(code)
     end
   end
 
@@ -71,9 +76,12 @@ module LanguageList
   BY_NAME      = {}
   BY_ISO_639_1 = {}
   BY_ISO_639_3 = {}
+  BY_ISO_639_2B = {}
+
   ALL_LANGUAGES.each do |lang|
     BY_NAME[lang.name.downcase] = lang
     BY_ISO_639_1[lang.iso_639_1] = lang if lang.iso_639_1
+    BY_ISO_639_2B[lang.iso_639_2b] = lang if lang.iso_639_2b
     BY_ISO_639_3[lang.iso_639_3] = lang if lang.iso_639_3
   end
 
