@@ -50617,11 +50617,11 @@
   :type: :living
   :scope: :individual
 - :name: Klingon
-  :iso_639_1: 
-  :iso_639_3: tlh
-  :iso_639_2b: tlh
-  :iso_639_2t: tlh
-  :common: false
+  :iso_639_1: kx
+  :iso_639_3: kxg
+  :iso_639_2b: kxg
+  :iso_639_2t: kxg
+  :common: true
   :type: :constructed
   :scope: :individual
 - :name: Tlingit
