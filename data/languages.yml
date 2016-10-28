@@ -17601,11 +17601,11 @@
   :type: :living
   :scope: :individual
 - :name: Swiss German
-  :iso_639_1:
+  :iso_639_1: zg
   :iso_639_3: gsw
   :iso_639_2b: gsw
   :iso_639_2t: gsw
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Guató
