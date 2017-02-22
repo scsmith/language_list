@@ -15121,11 +15121,11 @@
   :type: :living
   :scope: :individual
 - :name: Filipino
-  :iso_639_1: 
+  :iso_639_1: fl
   :iso_639_3: fil
   :iso_639_2b: fil
   :iso_639_2t: fil
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Finnish
@@ -19134,6 +19134,14 @@
   :iso_639_2b: 
   :iso_639_2t: 
   :common: false
+  :type: :living
+  :scope: :individual
+- :name: Hokkien
+  :iso_639_1: hk
+  :iso_639_3: hok
+  :iso_639_2b:
+  :iso_639_2t:
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Holu
@@ -49893,7 +49901,7 @@
   :iso_639_3: tgl
   :iso_639_2b: tgl
   :iso_639_2t: tgl
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Tandaganon
@@ -59976,6 +59984,14 @@
   :common: false
   :type: :living
   :scope: :individual
+- :name: Cantonese
+  :iso_639_1: zh
+  :iso_639_3: yue
+  :iso_639_2b: chi
+  :iso_639_2t: zho
+  :common: true
+  :type: :living
+  :scope: :individual
 - :name: Yue Chinese
   :iso_639_1: 
   :iso_639_3: yue
@@ -60609,6 +60625,14 @@
   :type: :living
   :scope: :individual
 - :name: Chinese
+  :iso_639_1: zh
+  :iso_639_3: zho
+  :iso_639_2b: chi
+  :iso_639_2t: zho
+  :common: true
+  :type: :living
+  :scope: :macro_language
+- :name: Mandarin
   :iso_639_1: zh
   :iso_639_3: zho
   :iso_639_2b: chi
