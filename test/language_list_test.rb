@@ -2,6 +2,10 @@ require 'minitest/autorun'
 require 'language_list'
 
 class LanguageListTest < Minitest::Test
+  def setup
+    I18n.locale = 'en'
+  end
+
   def test_all_languages
     assert_equal 7707, LanguageList::ALL_LANGUAGES.length
   end
@@ -96,5 +100,13 @@ class LanguageListTest < Minitest::Test
   def test_common_name_when_not_present
     english = LanguageList::LanguageInfo.find('en')
     assert_equal english.name, english.common_name
+  end
+
+  def test_translations
+    czech = LanguageList::LanguageInfo.find('cs')
+    I18n.locale = 'de'
+    assert_equal czech.name, 'Tschechisch'
+    I18n.locale = 'en'
+    assert_equal czech.name, 'Czech'
   end
 end
