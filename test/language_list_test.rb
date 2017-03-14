@@ -36,6 +36,8 @@ class LanguageListTest < Minitest::Test
     english = LanguageList::LanguageInfo.find_by_name('English')
     assert_equal 'en', english.iso_639_1
     assert_equal 'eng', english.iso_639_3
+    assert_equal 'eng', english.iso_639_2b
+    assert_equal 'eng', english.iso_639_2t
     assert_equal 'English', english.name
   end
 
@@ -60,6 +62,42 @@ class LanguageListTest < Minitest::Test
     assert_equal 'English', english.name
   end
 
+  def test_find_with_iso_639_2b_code
+    macedonian = LanguageList::LanguageInfo.find('mac')
+    assert_equal 'mk', macedonian.iso_639_1
+    assert_equal 'mac', macedonian.iso_639_2b
+    assert_equal 'mkd', macedonian.iso_639_2t
+    assert_equal 'mkd', macedonian.iso_639_3
+    assert_equal 'Macedonian', macedonian.name
+  end
+
+  def test_case_insensitive_find_with_iso_639_2b_code
+    macedonian = LanguageList::LanguageInfo.find('MAC')
+    assert_equal 'mk', macedonian.iso_639_1
+    assert_equal 'mac', macedonian.iso_639_2b
+    assert_equal 'mkd', macedonian.iso_639_2t
+    assert_equal 'mkd', macedonian.iso_639_3
+    assert_equal 'Macedonian', macedonian.name
+  end
+
+  def test_find_with_iso_639_2t_code
+    macedonian = LanguageList::LanguageInfo.find('mkd')
+    assert_equal 'mk', macedonian.iso_639_1
+    assert_equal 'mac', macedonian.iso_639_2b
+    assert_equal 'mkd', macedonian.iso_639_2t
+    assert_equal 'mkd', macedonian.iso_639_3
+    assert_equal 'Macedonian', macedonian.name
+  end
+
+  def test_case_insensitive_find_with_iso_639_2t_code
+    macedonian = LanguageList::LanguageInfo.find('MKD')
+    assert_equal 'mk', macedonian.iso_639_1
+    assert_equal 'mac', macedonian.iso_639_2b
+    assert_equal 'mkd', macedonian.iso_639_2t
+    assert_equal 'mkd', macedonian.iso_639_3
+    assert_equal 'Macedonian', macedonian.name
+  end
+
   def test_find_with_iso_639_3_code
     english = LanguageList::LanguageInfo.find('eng')
     assert_equal 'en', english.iso_639_1
@@ -78,6 +116,8 @@ class LanguageListTest < Minitest::Test
     english = LanguageList::LanguageInfo.find('English')
     assert_equal 'en', english.iso_639_1
     assert_equal 'eng', english.iso_639_3
+    assert_equal 'eng', english.iso_639_2b
+    assert_equal 'eng', english.iso_639_2t
     assert_equal 'English', english.name
   end
 
