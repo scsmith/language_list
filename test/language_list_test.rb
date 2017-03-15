@@ -166,5 +166,13 @@ class LanguageListTest < Minitest::Test
     assert_raises RuntimeError, /frozen Array/i do
       LanguageList::BY_ISO_639_3[0] = nil
     end
+
+    assert_raises RuntimeError, /frozen Array/i do
+      LanguageList::BY_ISO_639_2T[0] = nil
+    end
+
+    assert_raises RuntimeError, /frozen Array/i do
+      LanguageList::BY_ISO_639_2B[0] = nil
+    end
   end
 end

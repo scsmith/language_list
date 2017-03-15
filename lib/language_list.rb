@@ -97,4 +97,6 @@ module LanguageList
   BY_NAME.freeze
   BY_ISO_639_1.freeze
   BY_ISO_639_3.freeze
+  BY_ISO_639_2B.freeze
+  BY_ISO_639_2T.freeze
 end
