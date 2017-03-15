@@ -139,39 +139,39 @@ class LanguageListTest < Minitest::Test
   end
 
   def test_cannot_change_constants
-    assert_raises RuntimeError, /frozen Array/i do
+    assert_raises RuntimeError, TypeError do
       LanguageList::ALL_LANGUAGES[0] = nil
     end
 
-    assert_raises RuntimeError, /frozen Array/i do
+    assert_raises RuntimeError, TypeError do
       LanguageList::ISO_639_1[0] = nil
     end
 
-    assert_raises RuntimeError, /frozen Array/i do
+    assert_raises RuntimeError, TypeError do
       LanguageList::LIVING_LANGUAGES[0] = nil
     end
 
-    assert_raises RuntimeError, /frozen Array/i do
+    assert_raises RuntimeError, TypeError do
       LanguageList::COMMON_LANGUAGES[0] = nil
     end
 
-    assert_raises RuntimeError, /frozen Array/i do
+    assert_raises RuntimeError, TypeError do
       LanguageList::BY_NAME[0] = nil
     end
 
-    assert_raises RuntimeError, /frozen Array/i do
+    assert_raises RuntimeError, TypeError do
       LanguageList::BY_ISO_639_1[0] = nil
     end
 
-    assert_raises RuntimeError, /frozen Array/i do
+    assert_raises RuntimeError, TypeError do
       LanguageList::BY_ISO_639_3[0] = nil
     end
 
-    assert_raises RuntimeError, /frozen Array/i do
+    assert_raises RuntimeError, TypeError do
       LanguageList::BY_ISO_639_2T[0] = nil
     end
 
-    assert_raises RuntimeError, /frozen Array/i do
+    assert_raises RuntimeError, TypeError do
       LanguageList::BY_ISO_639_2B[0] = nil
     end
   end
