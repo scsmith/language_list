@@ -62,7 +62,7 @@ module LanguageList
     end
 
     def self.find(code)
-      code.downcase!
+      code = code.downcase
       find_by_iso_639_1(code) ||
         find_by_iso_639_3(code) ||
         find_by_iso_639_2b(code) ||
