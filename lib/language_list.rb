@@ -58,10 +58,14 @@ module LanguageList
     end
 
     def self.find_by_name(name)
+      return if name.nil?
+      
       LanguageList::BY_NAME[name.downcase]
     end
 
     def self.find(code)
+      return if code.nil?
+      
       code = code.downcase
       find_by_iso_639_1(code) ||
         find_by_iso_639_3(code) ||
