@@ -36,7 +36,7 @@ class LanguageListTest < Minitest::Test
   end
 
   def test_find_by_iso_639_1_with_frozen_string
-    english = LanguageList::LanguageInfo.find_by_iso_639_1('en'.frozen)
+    english = LanguageList::LanguageInfo.find_by_iso_639_1('en'.freeze)
     assert_equal 'en', english.iso_639_1
     assert_equal 'eng', english.iso_639_3
     assert_equal 'English', english.name
@@ -60,7 +60,7 @@ class LanguageListTest < Minitest::Test
   end
 
   def test_find_by_iso_639_3_with_frozen_string
-    english = LanguageList::LanguageInfo.find_by_iso_639_3('eng'.frozen)
+    english = LanguageList::LanguageInfo.find_by_iso_639_3('eng'.freeze)
     assert_equal 'en', english.iso_639_1
     assert_equal 'eng', english.iso_639_3
     assert_equal 'English', english.name
@@ -77,7 +77,7 @@ class LanguageListTest < Minitest::Test
   end
 
   def test_find_by_name_with_frozen_string
-    english = LanguageList::LanguageInfo.find_by_name('English'.frozen)
+    english = LanguageList::LanguageInfo.find_by_name('English'.freeze)
     assert_equal 'en', english.iso_639_1
     assert_equal 'eng', english.iso_639_3
     assert_equal 'eng', english.iso_639_2b
@@ -112,7 +112,7 @@ class LanguageListTest < Minitest::Test
   end
 
   def test_find_with_frozen_string
-    english = LanguageList::LanguageInfo.find('EN'.frozen)
+    english = LanguageList::LanguageInfo.find('EN'.freeze)
     assert_equal 'en', english.iso_639_1
     assert_equal 'eng', english.iso_639_3
     assert_equal 'English', english.name
