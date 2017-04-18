@@ -25,10 +25,63 @@ class LanguageListTest < Minitest::Test
     assert_equal 'English', english.name
   end
 
+  def test_find_by_iso_639_1_with_nil
+    result = LanguageList::LanguageInfo.find_by_iso_639_1(nil)
+    assert_equal nil, result
+  end
+
+  def test_find_by_iso_639_1_with_empty_string
+    result = LanguageList::LanguageInfo.find_by_iso_639_1('')
+    assert_equal nil, result
+  end
+
+  def test_find_by_iso_639_1_with_frozen_string
+    english = LanguageList::LanguageInfo.find_by_iso_639_1('en'.freeze)
+    assert_equal 'en', english.iso_639_1
+    assert_equal 'eng', english.iso_639_3
+    assert_equal 'English', english.name
+  end
+
   def test_find_by_iso_639_3
     english = LanguageList::LanguageInfo.find_by_iso_639_3('eng')
     assert_equal 'en', english.iso_639_1
     assert_equal 'eng', english.iso_639_3
+    assert_equal 'English', english.name
+  end
+
+  def test_find_by_iso_639_3_with_nil
+    result = LanguageList::LanguageInfo.find_by_iso_639_3(nil)
+    assert_equal nil, result
+  end
+
+  def test_find_by_iso_639_3_with_empty_string
+    result = LanguageList::LanguageInfo.find_by_iso_639_3('')
+    assert_equal nil, result
+  end
+
+  def test_find_by_iso_639_3_with_frozen_string
+    english = LanguageList::LanguageInfo.find_by_iso_639_3('eng'.freeze)
+    assert_equal 'en', english.iso_639_1
+    assert_equal 'eng', english.iso_639_3
+    assert_equal 'English', english.name
+  end
+
+  def test_find_by_name_with_nil
+    result = LanguageList::LanguageInfo.find_by_name(nil)
+    assert_equal nil, result
+  end
+
+  def test_find_by_name_with_empty_string
+    result = LanguageList::LanguageInfo.find_by_name('')
+    assert_equal nil, result
+  end
+
+  def test_find_by_name_with_frozen_string
+    english = LanguageList::LanguageInfo.find_by_name('English'.freeze)
+    assert_equal 'en', english.iso_639_1
+    assert_equal 'eng', english.iso_639_3
+    assert_equal 'eng', english.iso_639_2b
+    assert_equal 'eng', english.iso_639_2t
     assert_equal 'English', english.name
   end
 
@@ -43,6 +96,23 @@ class LanguageListTest < Minitest::Test
 
   def test_case_insensitive_find_by_name
     english = LanguageList::LanguageInfo.find_by_name('english')
+    assert_equal 'en', english.iso_639_1
+    assert_equal 'eng', english.iso_639_3
+    assert_equal 'English', english.name
+  end
+
+  def test_find_with_nil
+    result = LanguageList::LanguageInfo.find(nil)
+    assert_equal nil, result
+  end
+
+  def test_find_with_empty_string
+    result = LanguageList::LanguageInfo.find('')
+    assert_equal nil, result
+  end
+
+  def test_find_with_frozen_string
+    english = LanguageList::LanguageInfo.find('EN'.freeze)
     assert_equal 'en', english.iso_639_1
     assert_equal 'eng', english.iso_639_3
     assert_equal 'English', english.name
