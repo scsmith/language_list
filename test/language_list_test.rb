@@ -3,19 +3,19 @@ require 'language_list'
 
 class LanguageListTest < Minitest::Test
   def test_all_languages
-    assert_equal 7710, LanguageList::ALL_LANGUAGES.length
+    assert_equal 7715, LanguageList::ALL_LANGUAGES.length
   end
 
   def test_common_languages
-    assert_equal 76, LanguageList::COMMON_LANGUAGES.length
+    assert_equal 81, LanguageList::COMMON_LANGUAGES.length
   end
 
   def test_living_languages
-    assert_equal 6989, LanguageList::LIVING_LANGUAGES.length
+    assert_equal 6994, LanguageList::LIVING_LANGUAGES.length
   end
 
   def test_iso_iso_639_1_languages
-    assert_equal 188, LanguageList::ISO_639_1.length
+    assert_equal 193, LanguageList::ISO_639_1.length
   end
 
   def test_find_by_iso_639_1

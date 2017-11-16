@@ -10519,12 +10519,12 @@
   :common: false
   :type: :extinct
   :scope: :individual
-- :name: Mandarin Chinese
-  :iso_639_1: 
+- :name: Mandarin
+  :iso_639_1: cmn
   :iso_639_3: cmn
   :iso_639_2b: 
   :iso_639_2t: 
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Central Mnong
@@ -14056,11 +14056,11 @@
   :type: :living
   :scope: :individual
 - :name: Egyptian (Ancient)
-  :iso_639_1: 
+  :iso_639_1: egy
   :iso_639_3: egy
   :iso_639_2b: egy
   :iso_639_2t: egy
-  :common: false
+  :common: true
   :type: :ancient
   :scope: :individual
 - :name: Ehueun
@@ -59985,19 +59985,11 @@
   :type: :living
   :scope: :individual
 - :name: Cantonese
-  :iso_639_1: zh
+  :iso_639_1: yue
   :iso_639_3: yue
   :iso_639_2b: chi
   :iso_639_2t: zho
   :common: true
-  :type: :living
-  :scope: :individual
-- :name: Yue Chinese
-  :iso_639_1: 
-  :iso_639_3: yue
-  :iso_639_2b: 
-  :iso_639_2t: 
-  :common: false
   :type: :living
   :scope: :individual
 - :name: Havasupai-Walapai-Yavapai
@@ -60625,14 +60617,6 @@
   :type: :living
   :scope: :individual
 - :name: Chinese
-  :iso_639_1: zh
-  :iso_639_3: zho
-  :iso_639_2b: chi
-  :iso_639_2t: zho
-  :common: true
-  :type: :living
-  :scope: :macro_language
-- :name: Mandarin
   :iso_639_1: zh
   :iso_639_3: zho
   :iso_639_2b: chi
@@ -61680,3 +61664,60 @@
   :common: false
   :type: :living
   :scope: :individual
+- :name: Akan
+  :iso_639_1: ak
+  :iso_639_3: aka
+  :iso_639_2b: 
+  :iso_639_2t: 
+  :common: true
+  :type: :living
+  :scope: :individual
+- :name: Sinhala
+  :iso_639_1: si
+  :iso_639_3: sin
+  :iso_639_2b: 
+  :iso_639_2t: 
+  :common: true
+  :type: :living
+  :scope: :individual
+- :name: Pashto
+  :iso_639_1: ps
+  :iso_639_3: pus
+  :iso_639_2b: 
+  :iso_639_2t: 
+  :common: true
+  :type: :living
+  :scope: :individual
+- :name: Dari
+  :iso_639_1: prs
+  :iso_639_3: prs
+  :iso_639_2b: 
+  :iso_639_2t: 
+  :common: true
+  :type: :living
+  :scope: :individual
+- :name: Zulu
+  :iso_639_1: zu
+  :iso_639_3: zul
+  :iso_639_2b: 
+  :iso_639_2t: 
+  :common: true
+  :type: :living
+  :scope: :individual
+- :name: Neapolitan
+  :iso_639_1: nap
+  :iso_639_3: nap
+  :iso_639_2b: 
+  :iso_639_2t: 
+  :common: true
+  :type: :living
+  :scope: :individual
+- :name: Lebanese
+  :iso_639_1: lz
+  :iso_639_3: 
+  :iso_639_2b: 
+  :iso_639_2t: 
+  :common: true
+  :type: :living
+  :scope: :individual
+
