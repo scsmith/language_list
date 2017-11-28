@@ -93,6 +93,7 @@ module LanguageList
   BY_ISO_639_2T = {}
   ALL_LANGUAGES.each do |lang|
     BY_NAME[lang.name.downcase] = lang
+    BY_NAME[lang.common_name.downcase] = lang if lang.common_name
     BY_ISO_639_1[lang.iso_639_1] = lang if lang.iso_639_1
     BY_ISO_639_3[lang.iso_639_3] = lang if lang.iso_639_3
     BY_ISO_639_2B[lang.iso_639_2b] = lang if lang.iso_639_2b
