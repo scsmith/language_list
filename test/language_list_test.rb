@@ -94,6 +94,15 @@ class LanguageListTest < Minitest::Test
     assert_equal 'English', english.name
   end
 
+  def test_find_by_common_name
+    greek = LanguageList::LanguageInfo.find_by_name('greek')
+    assert_equal 'el', greek.iso_639_1
+    assert_equal 'ell', greek.iso_639_3
+    assert_equal 'gre', greek.iso_639_2b
+    assert_equal 'ell', greek.iso_639_2t
+    assert_equal 'Greek', greek.common_name
+  end
+
   def test_case_insensitive_find_by_name
     english = LanguageList::LanguageInfo.find_by_name('english')
     assert_equal 'en', english.iso_639_1
