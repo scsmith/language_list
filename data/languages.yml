@@ -696,11 +696,11 @@
   :type: :living
   :scope: :individual
 - :name: Adnyamathanha
-  :iso_639_1:
+  :iso_639_1: adt
   :iso_639_3: adt
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Aduge
@@ -1792,11 +1792,11 @@
   :type: :living
   :scope: :individual
 - :name: Alawa
-  :iso_639_1:
+  :iso_639_1: alh
   :iso_639_3: alh
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Amaimon
@@ -1975,12 +1975,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Amarag
-  :iso_639_1:
+- :name: Amurdak
+  :iso_639_1: amg
   :iso_639_3: amg
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Amharic
@@ -2111,12 +2111,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Anmatyerre
-  :iso_639_1:
+- :name: Anmatyerr
+  :iso_639_1: amx
   :iso_639_3: amx
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Ami
@@ -2287,12 +2287,12 @@
   :common: false
   :type: :extinct
   :scope: :individual
-- :name: Antakarinya
-  :iso_639_1:
+- :name: Antikarinya
+  :iso_639_1: ant
   :iso_639_3: ant
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Anuak
@@ -2408,11 +2408,11 @@
   :type: :extinct
   :scope: :individual
 - :name: Anindilyakwa
-  :iso_639_1:
+  :iso_639_1: aoi
   :iso_639_3: aoi
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Mufian
@@ -2784,19 +2784,19 @@
   :type: :ancient
   :scope: :individual
 - :name: Arabana
-  :iso_639_1:
+  :iso_639_1: ard
   :iso_639_3: ard
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
-  :type: :extinct
+  :common: true
+  :type: :living
   :scope: :individual
 - :name: Western Arrarnta
-  :iso_639_1:
+  :iso_639_1: are
   :iso_639_3: are
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Aragonese
@@ -3680,12 +3680,12 @@
   :type: :living
   :scope: :individual
 - :name: Awabakal
-  :iso_639_1:
+  :iso_639_1: awk
   :iso_639_3: awk
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
-  :type: :extinct
+  :common: true
+  :type: :living
   :scope: :individual
 - :name: Arawum
   :iso_639_1:
@@ -4512,19 +4512,19 @@
   :type: :living
   :scope: :individual
 - :name: Bardi
-  :iso_639_1:
+  :iso_639_1: bcj
   :iso_639_3: bcj
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
-- :name: Bunaba
-  :iso_639_1:
+- :name: Bunuba
+  :iso_639_1: bck
   :iso_639_3: bck
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Central Bicolano
@@ -4831,12 +4831,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Bandjalang
-  :iso_639_1:
+- :name: Bandjalung
+  :iso_639_1: bdy
   :iso_639_3: bdy
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Badeshi
@@ -5648,11 +5648,11 @@
   :type: :living
   :scope: :individual
 - :name: Badimaya
-  :iso_639_1:
+  :iso_639_1: bia
   :iso_639_3: bia
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Bissa
@@ -5847,13 +5847,13 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Banggarla
-  :iso_639_1:
+- :name: Barngarla
+  :iso_639_1: bjb
   :iso_639_3: bjb
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
-  :type: :extinct
+  :common: true
+  :type: :living
   :scope: :individual
 - :name: Bariji
   :iso_639_1:
@@ -8328,11 +8328,11 @@
   :type: :living
   :scope: :individual
 - :name: Burarra
-  :iso_639_1:
+  :iso_639_1: bvr
   :iso_639_3: bvr
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Bati (Indonesia)
@@ -8879,12 +8879,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Bidyara
-  :iso_639_1:
+- :name: Bidjara
+  :iso_639_1: bym
   :iso_639_3: bym
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Bilin
@@ -9120,12 +9120,12 @@
   :type: :living
   :scope: :individual
 - :name: Biri
-  :iso_639_1:
+  :iso_639_1: bzr
   :iso_639_3: bzr
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
-  :type: :extinct
+  :common: true
+  :type: :living
   :scope: :individual
 - :name: Brazilian Sign Language
   :iso_639_1:
@@ -11895,12 +11895,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Dayi
-  :iso_639_1:
+- :name: Dhay'yi
+  :iso_639_1: dax
   :iso_639_3: dax
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Dao
@@ -11976,11 +11976,11 @@
   :type: :living
   :scope: :individual
 - :name: Dyirbal
-  :iso_639_1:
+  :iso_639_1: dbl
   :iso_639_3: dbl
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Duguri
@@ -12104,11 +12104,11 @@
   :type: :living
   :scope: :individual
 - :name: Jaru
-  :iso_639_1:
+  :iso_639_1: ddj
   :iso_639_3: ddj
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Dendi (Benin)
@@ -12423,12 +12423,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Dhangu
-  :iso_639_1:
+- :name: Yolngu Matha
+  :iso_639_1: dhg
   :iso_639_3: dhg
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Dhimal
@@ -12439,12 +12439,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Dhalandji
-  :iso_639_1:
+- :name: Thalandji
+  :iso_639_1: dhl
   :iso_639_3: dhl
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Zemba
@@ -12488,12 +12488,12 @@
   :type: :living
   :scope: :individual
 - :name: Dhurga
-  :iso_639_1:
+  :iso_639_1: dhu
   :iso_639_3: dhu
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
-  :type: :extinct
+  :common: true
+  :type: :living
   :scope: :individual
 - :name: Dehu
   :iso_639_1:
@@ -12544,12 +12544,12 @@
   :type: :living
   :scope: :individual
 - :name: Dieri
-  :iso_639_1:
+  :iso_639_1: dif
   :iso_639_3: dif
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
-  :type: :extinct
+  :common: true
+  :type: :living
   :scope: :individual
 - :name: Digo
   :iso_639_1:
@@ -12712,11 +12712,11 @@
   :type: :living
   :scope: :individual
 - :name: Djinba
-  :iso_639_1:
+  :iso_639_1: djb
   :iso_639_3: djb
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Dar Daju Daju
@@ -12727,12 +12727,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Djamindjung
-  :iso_639_1:
+- :name: Jaminjung
+  :iso_639_1: djd
   :iso_639_3: djd
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Zarma
@@ -12752,19 +12752,19 @@
   :type: :extinct
   :scope: :individual
 - :name: Djinang
-  :iso_639_1:
+  :iso_639_1: dji
   :iso_639_3: dji
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
-- :name: Djeebbana
-  :iso_639_1:
+- :name: Ndjébbana (Gunavidji)
+  :iso_639_1: djj
   :iso_639_3: djj
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Eastern Maroon Creole
@@ -12791,12 +12791,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Djauan
-  :iso_639_1:
+- :name: Jawoyn
+  :iso_639_1: djn
   :iso_639_3: djn
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Jangkang
@@ -12808,11 +12808,11 @@
   :type: :living
   :scope: :individual
 - :name: Djambarrpuyngu
-  :iso_639_1:
+  :iso_639_1: djr
   :iso_639_3: djr
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Kapriman
@@ -12997,6 +12997,14 @@
   :iso_639_2b:
   :iso_639_2t:
   :common: false
+  :type: :living
+  :scope: :individual
+- :name: Mudburra
+  :iso_639_1: dmw
+  :iso_639_3: dmw
+  :iso_639_2b:
+  :iso_639_2t:
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Dema
@@ -13335,12 +13343,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Darling
-  :iso_639_1:
+- :name: Paakantyi
+  :iso_639_1: drl
   :iso_639_3: drl
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: West Damar
@@ -13632,11 +13640,11 @@
   :type: :living
   :scope: :individual
 - :name: Dhuwal
-  :iso_639_1:
+  :iso_639_1: duj
   :iso_639_3: duj
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Uyajitaya
@@ -13823,13 +13831,13 @@
   :common: false
   :type: :extinct
   :scope: :individual
-- :name: Dyugun
-  :iso_639_1:
+- :name: Jugun
+  :iso_639_1: dyd
   :iso_639_3: dyd
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
-  :type: :extinct
+  :common: true
+  :type: :living
   :scope: :individual
 - :name: Villa Viciosa Agta
   :iso_639_1:
@@ -13855,12 +13863,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Dyangadi
-  :iso_639_1:
+- :name: Dhanggatti
+  :iso_639_1: dyn
   :iso_639_3: dyn
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Jola-Fonyi
@@ -13879,12 +13887,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Dyaabugay
-  :iso_639_1:
+- :name: Djabugay
+  :iso_639_1: dyy
   :iso_639_3: dyy
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Tunzu
@@ -15833,27 +15841,27 @@
   :type: :living
   :scope: :macro_language
 - :name: Kaytetye
-  :iso_639_1:
+  :iso_639_1: gbb
   :iso_639_3: gbb
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
-- :name: Garawa
-  :iso_639_1:
+- :name: Garrwa
+  :iso_639_1: gbc
   :iso_639_3: gbc
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
-- :name: Karadjeri
-  :iso_639_1:
+- :name: Karajarri
+  :iso_639_1: gbd
   :iso_639_3: gbd
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Niksek
@@ -15990,6 +15998,14 @@
   :iso_639_2b:
   :iso_639_2t:
   :common: false
+  :type: :living
+  :scope: :individual
+- :name: Kabi Kabi
+  :iso_639_1: gbw
+  :iso_639_3: gbw
+  :iso_639_2b:
+  :iso_639_2t:
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Eastern Xwla Gbe
@@ -16400,12 +16416,12 @@
   :common: false
   :type: :extinct
   :scope: :individual
-- :name: Guragone
-  :iso_639_1:
+- :name: Gurr-goni
+  :iso_639_1: gge
   :iso_639_3: gge
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Gurgula
@@ -16568,12 +16584,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Kitja
-  :iso_639_1:
+- :name: Gija
+  :iso_639_1: gia
   :iso_639_3: gia
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Gibanawa
@@ -16734,6 +16750,14 @@
   :iso_639_2b:
   :iso_639_2t:
   :common: false
+  :type: :living
+  :scope: :individual
+- :name: Gurindji Kriol
+  :iso_639_1: gjr
+  :iso_639_3: gjr
+  :iso_639_2b:
+  :iso_639_2t:
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Gujari
@@ -17041,11 +17065,11 @@
   :type: :living
   :scope: :individual
 - :name: Gooniyandi
-  :iso_639_1:
+  :iso_639_1: gni
   :iso_639_3: gni
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: //Gana
@@ -17073,11 +17097,11 @@
   :type: :living
   :scope: :individual
 - :name: Gumatj
-  :iso_639_1:
+  :iso_639_1: gnn
   :iso_639_3: gnn
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Northern Gondi
@@ -17672,20 +17696,20 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Gurinji
-  :iso_639_1:
+- :name: Gurindji
+  :iso_639_1: gue
   :iso_639_3: gue
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Gupapuyngu
-  :iso_639_1:
+  :iso_639_1: guf
   :iso_639_3: guf
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Paraguayan Guaraní
@@ -17760,12 +17784,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Gunwinggu
-  :iso_639_1:
+- :name: Kunwinjku
+  :iso_639_1: gup
   :iso_639_3: gup
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Aché
@@ -17896,12 +17920,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Kuku-Yalanji
-  :iso_639_1:
+- :name: Kuku Yalanji
+  :iso_639_1: gvn
   :iso_639_3: gvn
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Gavião Do Jiparaná
@@ -18089,11 +18113,11 @@
   :type: :living
   :scope: :individual
 - :name: Kayardild
-  :iso_639_1:
+  :iso_639_1: gyd
   :iso_639_3: gyd
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Gyem
@@ -19761,11 +19785,11 @@
   :type: :living
   :scope: :individual
 - :name: Iwaidja
-  :iso_639_1:
+  :iso_639_1: ibd
   :iso_639_3: ibd
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Akpes
@@ -21137,11 +21161,11 @@
   :type: :living
   :scope: :individual
 - :name: Yanyuwa
-  :iso_639_1:
+  :iso_639_1: jao
   :iso_639_3: jao
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Yaqay
@@ -21201,11 +21225,11 @@
   :type: :living
   :scope: :individual
 - :name: Yan-nhangu
-  :iso_639_1:
+  :iso_639_1: jay
   :iso_639_3: jay
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Jawe
@@ -21480,12 +21504,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Djingili
-  :iso_639_1:
+- :name: Jingulu
+  :iso_639_1: jig
   :iso_639_3: jig
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Shangzhai
@@ -22673,11 +22697,11 @@
   :type: :living
   :scope: :individual
 - :name: Yankunytjatjara
-  :iso_639_1:
+  :iso_639_1: kdd
   :iso_639_3: kdd
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Makonde
@@ -23344,13 +23368,13 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Kunggari
-  :iso_639_1:
+- :name: Gunggari
+  :iso_639_1: kgl
   :iso_639_3: kgl
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
-  :type: :extinct
+  :common: true
+  :type: :living
   :scope: :individual
 - :name: Karipúna
   :iso_639_1:
@@ -23400,12 +23424,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Kumbainggar
-  :iso_639_1:
+- :name: Gumbaynggir
+  :iso_639_1: kgs
   :iso_639_3: kgs
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Somyev
@@ -24176,12 +24200,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Gugubera
-  :iso_639_1:
+- :name: Koko-Bera
+  :iso_639_1: kkp
   :iso_639_3: kkp
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Kaiku
@@ -24248,12 +24272,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Guguyimidjir
-  :iso_639_1:
+- :name: Guugu Yimidhirr
+  :iso_639_1: kky
   :iso_639_3: kky
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Kaska
@@ -24289,11 +24313,11 @@
   :type: :living
   :scope: :individual
 - :name: Gamilaraay
-  :iso_639_1:
+  :iso_639_1: kld
   :iso_639_3: kld
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Kulung (Nepal)
@@ -25912,12 +25936,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Kokata
-  :iso_639_1:
+- :name: Kokatha
+  :iso_639_1: ktd
   :iso_639_3: ktd
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Nubri
@@ -25936,13 +25960,13 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Kalkutung
-  :iso_639_1:
+- :name: Kalkatungu (Kalkadoon)
+  :iso_639_1: ktg
   :iso_639_3: ktg
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
-  :type: :extinct
+  :common: true
+  :type: :living
   :scope: :individual
 - :name: Karanga
   :iso_639_1:
@@ -26281,19 +26305,19 @@
   :type: :living
   :scope: :individual
 - :name: Kukatja
-  :iso_639_1:
+  :iso_639_1: kux
   :iso_639_3: kux
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Kuuku-Ya'u
-  :iso_639_1:
+  :iso_639_1: kuy
   :iso_639_3: kuy
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Kunza
@@ -27721,11 +27745,11 @@
   :type: :extinct
   :scope: :individual
 - :name: Lardil
-  :iso_639_1:
+  :iso_639_1: lbz
   :iso_639_3: lbz
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Legenyem
@@ -29408,13 +29432,13 @@
   :common: false
   :type: :extinct
   :scope: :individual
-- :name: Laragia
-  :iso_639_1:
+- :name: Larrakia
+  :iso_639_1: lrg
   :iso_639_3: lrg
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
-  :type: :extinct
+  :common: true
+  :type: :living
   :scope: :individual
 - :name: Marachi
   :iso_639_1:
@@ -30824,12 +30848,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Mara
-  :iso_639_1:
+- :name: Marra
+  :iso_639_1: mec
   :iso_639_3: mec
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Melpa
@@ -30905,12 +30929,12 @@
   :type: :living
   :scope: :individual
 - :name: Mangala
-  :iso_639_1:
+  :iso_639_1: mem
   :iso_639_3: mem
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
-  :type: :extinct
+  :common: true
+  :type: :living
   :scope: :individual
 - :name: Mende (Sierra Leone)
   :iso_639_1:
@@ -30928,12 +30952,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Miriwung
-  :iso_639_1:
+- :name: Miriwoong
+  :iso_639_1: mep
   :iso_639_3: mep
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Merey
@@ -31144,12 +31168,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Marithiel
-  :iso_639_1:
+- :name: Marrithiyel
+  :iso_639_1: mfr
   :iso_639_3: mfr
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Mexican Sign Language
@@ -33000,20 +33024,20 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Mullukmulluk
-  :iso_639_1:
+- :name: Malak Malak
+  :iso_639_1: mpb
   :iso_639_3: mpb
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
-- :name: Mangarayi
-  :iso_639_1:
+- :name: Mangarrayi
+  :iso_639_1: mpc
   :iso_639_3: mpc
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Machinere
@@ -33041,11 +33065,11 @@
   :type: :living
   :scope: :individual
 - :name: Maung
-  :iso_639_1:
+  :iso_639_1: mph
   :iso_639_3: mph
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Mpade
@@ -33057,11 +33081,11 @@
   :type: :living
   :scope: :individual
 - :name: Martu Wangka
-  :iso_639_1:
+  :iso_639_1: mpj
   :iso_639_3: mpj
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Mbara (Chad)
@@ -34416,12 +34440,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Murrinh-Patha
-  :iso_639_1:
+- :name: Murrinh Patha
+  :iso_639_1: mwf
   :iso_639_3: mwf
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Aiklep
@@ -34496,12 +34520,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Kala Lagaw Ya
-  :iso_639_1:
+- :name: Kalaw Lagaw Ya
+  :iso_639_1: mwp
   :iso_639_3: mwp
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Mün Chin
@@ -35264,12 +35288,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Nangikurrunggurr
-  :iso_639_1:
+- :name: Ngan'gi
+  :iso_639_1: nam
   :iso_639_3: nam
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Min Nan Chinese
@@ -35360,13 +35384,13 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Narrinyeri
-  :iso_639_1:
+- :name: Ngarrindjeri
+  :iso_639_1: nay
   :iso_639_3: nay
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
-  :type: :extinct
+  :common: true
+  :type: :living
   :scope: :individual
 - :name: Coatepec Nahuatl
   :iso_639_1:
@@ -35440,12 +35464,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Ngarinman
-  :iso_639_1:
+- :name: Ngarinyman
+  :iso_639_1: nbj
   :iso_639_3: nbj
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Nake
@@ -35648,12 +35672,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Nakara
-  :iso_639_1:
+- :name: Nakkara
+  :iso_639_1: nck
   :iso_639_3: nck
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Michoacán Nahuatl
@@ -36256,12 +36280,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Ngalkbun
-  :iso_639_1:
+- :name: Dalabon
+  :iso_639_1: ngk
   :iso_639_3: ngk
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Lomwe
@@ -36585,12 +36609,12 @@
   :type: :living
   :scope: :individual
 - :name: Ngandi
-  :iso_639_1:
+  :iso_639_1: nid
   :iso_639_3: nid
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
-  :type: :extinct
+  :common: true
+  :type: :living
   :scope: :individual
 - :name: Niellim
   :iso_639_1:
@@ -36608,13 +36632,13 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Ngalakan
-  :iso_639_1:
+- :name: Ngalakgan
+  :iso_639_1: nig
   :iso_639_3: nig
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
-  :type: :extinct
+  :common: true
+  :type: :living
   :scope: :individual
 - :name: Nyiha (Tanzania)
   :iso_639_1:
@@ -37169,11 +37193,11 @@
   :type: :living
   :scope: :individual
 - :name: Ngarla
-  :iso_639_1:
+  :iso_639_1: nlr
   :iso_639_3: nlr
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Nchumbulu
@@ -37201,11 +37225,11 @@
   :type: :living
   :scope: :individual
 - :name: Nyamal
-  :iso_639_1:
+  :iso_639_1: nly
   :iso_639_3: nly
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Nalögo
@@ -37425,11 +37449,11 @@
   :type: :living
   :scope: :individual
 - :name: Nyangumarta
-  :iso_639_1:
+  :iso_639_1: nna
   :iso_639_3: nna
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Nande
@@ -37561,12 +37585,12 @@
   :type: :living
   :scope: :individual
 - :name: Narungga
-  :iso_639_1:
+  :iso_639_1: nnr
   :iso_639_3: nnr
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
-  :type: :extinct
+  :common: true
+  :type: :living
   :scope: :individual
 - :name: Ningye
   :iso_639_1:
@@ -37592,13 +37616,13 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Nugunu (Australia)
-  :iso_639_1:
+- :name: Nukunu
+  :iso_639_1: nnv
   :iso_639_3: nnv
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
-  :type: :extinct
+  :common: true
+  :type: :living
   :scope: :individual
 - :name: Southern Nuni
   :iso_639_1:
@@ -37977,11 +38001,11 @@
   :type: :living
   :scope: :individual
 - :name: Ngarluma
-  :iso_639_1:
+  :iso_639_1: nrl
   :iso_639_3: nrl
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Narom
@@ -38249,11 +38273,11 @@
   :type: :living
   :scope: :individual
 - :name: Ngaanyatjarra
-  :iso_639_1:
+  :iso_639_1: ntj
   :iso_639_3: ntj
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Ikoma-Nata-Isenye
@@ -38377,12 +38401,12 @@
   :type: :living
   :scope: :individual
 - :name: Nungali
-  :iso_639_1:
+  :iso_639_1: nug
   :iso_639_3: nug
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
-  :type: :extinct
+  :common: true
+  :type: :living
   :scope: :individual
 - :name: Ndunda
   :iso_639_1:
@@ -38520,12 +38544,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Nunggubuyu
-  :iso_639_1:
+- :name: Wubuy
+  :iso_639_1: nuy
   :iso_639_3: nuy
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Tlamacazapa Nahuatl
@@ -38776,12 +38800,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Nyigina
-  :iso_639_1:
+- :name: Nyikina
+  :iso_639_1: nyh
   :iso_639_3: nyh
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Ama (Sudan)
@@ -38864,12 +38888,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Nyunga
-  :iso_639_1:
+- :name: Noongar
+  :iso_639_1: nys
   :iso_639_3: nys
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Nyawaygi
@@ -38904,13 +38928,13 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Nganyaywana
-  :iso_639_1:
+- :name: Anaiwan
+  :iso_639_1: nyx
   :iso_639_3: nyx
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
-  :type: :extinct
+  :common: true
+  :type: :living
   :scope: :individual
 - :name: Nyakyusa-Ngonde
   :iso_639_1:
@@ -41361,11 +41385,11 @@
   :type: :extinct
   :scope: :individual
 - :name: Pintupi-Luritja
-  :iso_639_1:
+  :iso_639_1: piu
   :iso_639_3: piu
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Pileni
@@ -42008,12 +42032,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Panytyima
-  :iso_639_1:
+- :name: Banyjima
+  :iso_639_1: pnw
   :iso_639_3: pnw
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Phong-Kniang
@@ -44016,12 +44040,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Ritarungo
-  :iso_639_1:
+- :name: Ritharrngu
+  :iso_639_1: rit
   :iso_639_3: rit
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Riung
@@ -44112,12 +44136,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Rembarunga
-  :iso_639_1:
+- :name: Rembarrnga
+  :iso_639_1: rmb
   :iso_639_3: rmb
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Carpathian Romani
@@ -44441,11 +44465,11 @@
   :type: :living
   :scope: :individual
 - :name: Kriol
-  :iso_639_1:
+  :iso_639_1: rop
   :iso_639_3: rop
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Rongga
@@ -44726,6 +44750,14 @@
   :iso_639_2b:
   :iso_639_2t:
   :common: false
+  :type: :living
+  :scope: :individual
+- :name: Karuwali
+  :iso_639_1: rxw
+  :iso_639_3: rxw
+  :iso_639_2b:
+  :iso_639_2t:
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Northern Amami-Oshima
@@ -49096,13 +49128,13 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Thurawal
-  :iso_639_1:
+- :name: Dharawal
+  :iso_639_1: tbh
   :iso_639_3: tbh
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
-  :type: :extinct
+  :common: true
+  :type: :living
   :scope: :individual
 - :name: Gaam
   :iso_639_1:
@@ -49368,12 +49400,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Torres Strait Creole
-  :iso_639_1:
+- :name: Yumplatok
+  :iso_639_1: tcs
   :iso_639_3: tcs
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: T'en
@@ -50032,12 +50064,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Thayore
-  :iso_639_1:
+- :name: Kuuk Thayorre
+  :iso_639_1: thd
   :iso_639_3: thd
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Chitwania Tharu
@@ -50353,11 +50385,11 @@
   :type: :living
   :scope: :individual
 - :name: Tiwi
-  :iso_639_1:
+  :iso_639_1: tiw
   :iso_639_3: tiw
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Southern Tiwa
@@ -53360,12 +53392,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Meriam
-  :iso_639_1:
+- :name: Meriam Mir
+  :iso_639_1: ulk
   :iso_639_3: ulk
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Ullatan
@@ -53440,13 +53472,13 @@
   :common: false
   :type: :extinct
   :scope: :individual
-- :name: Umbuygamu
-  :iso_639_1:
+- :name: Morrobalama
+  :iso_639_1: umg
   :iso_639_3: umg
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
-  :type: :extinct
+  :common: true
+  :type: :living
   :scope: :individual
 - :name: Ukit
   :iso_639_1:
@@ -53537,11 +53569,11 @@
   :type: :living
   :scope: :individual
 - :name: Ngarinyin
-  :iso_639_1:
+  :iso_639_1: ung
   :iso_639_3: ung
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Enawené-Nawé
@@ -53560,12 +53592,12 @@
   :common: false
   :type: :extinct
   :scope: :individual
-- :name: Worora
-  :iso_639_1:
+- :name: Worrorra
+  :iso_639_1: unp
   :iso_639_3: unp
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Mundari
@@ -54297,12 +54329,12 @@
   :type: :living
   :scope: :individual
 - :name: Kariyarra
-  :iso_639_1:
+  :iso_639_1: vka
   :iso_639_3: vka
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
-  :type: :extinct
+  :common: true
+  :type: :living
   :scope: :individual
 - :name: Ija-Zuba
   :iso_639_1:
@@ -54840,12 +54872,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Wageman
-  :iso_639_1:
+- :name: Wagiman
+  :iso_639_1: waq
   :iso_639_3: waq
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Waray (Philippines)
@@ -55024,20 +55056,20 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Wanman
-  :iso_639_1:
+- :name: Warnman
+  :iso_639_1: wbt
   :iso_639_3: wbt
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Wajarri
-  :iso_639_1:
+  :iso_639_1: wbv
   :iso_639_3: wbv
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Woi
@@ -55224,13 +55256,13 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Wangganguru
-  :iso_639_1:
+- :name: Wangkangurru
+  :iso_639_1: wgg
   :iso_639_3: wgg
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
-  :type: :extinct
+  :common: true
+  :type: :living
   :scope: :individual
 - :name: Wahgi
   :iso_639_1:
@@ -55249,11 +55281,11 @@
   :type: :living
   :scope: :individual
 - :name: Warrgamay
-  :iso_639_1:
+  :iso_639_1: wgy
   :iso_639_3: wgy
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Manusela
@@ -55368,12 +55400,12 @@
   :common: false
   :type: :extinct
   :scope: :individual
-- :name: Wik-Mungkan
-  :iso_639_1:
+- :name: Wik Mungkan
+  :iso_639_1: wim
   :iso_639_3: wim
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Ho-Chunk
@@ -55488,13 +55520,13 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Wakawaka
-  :iso_639_1:
+- :name: Wakka Wakka
+  :iso_639_1: wkw
   :iso_639_3: wkw
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
-  :type: :extinct
+  :common: true
+  :type: :living
   :scope: :individual
 - :name: Walio
   :iso_639_1:
@@ -55521,11 +55553,11 @@
   :type: :living
   :scope: :individual
 - :name: Kunbarlang
-  :iso_639_1:
+  :iso_639_1: wlg
   :iso_639_3: wlg
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Waioli
@@ -55640,12 +55672,12 @@
   :common: false
   :type: :extinct
   :scope: :individual
-- :name: Wambaya
-  :iso_639_1:
+- :name: Wambayan
+  :iso_639_1: wmb
   :iso_639_3: wmb
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Wamas
@@ -55721,11 +55753,11 @@
   :type: :living
   :scope: :individual
 - :name: Walmajarri
-  :iso_639_1:
+  :iso_639_1: wmt
   :iso_639_3: wmt
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Mwani
@@ -55830,6 +55862,14 @@
   :iso_639_2b:
   :iso_639_2t:
   :common: false
+  :type: :living
+  :scope: :individual
+- :name: Waanyi
+  :iso_639_1: wny
+  :iso_639_3: wny
+  :iso_639_2b:
+  :iso_639_2t:
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Tyaraity
@@ -56008,13 +56048,13 @@
   :common: false
   :type: :extinct
   :scope: :individual
-- :name: Wiradhuri
-  :iso_639_1:
+- :name: Wiradjuri
+  :iso_639_1: wrh
   :iso_639_3: wrh
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
-  :type: :extinct
+  :common: true
+  :type: :living
   :scope: :individual
 - :name: Wariyangga
   :iso_639_1:
@@ -56025,11 +56065,11 @@
   :type: :extinct
   :scope: :individual
 - :name: Warlmanpa
-  :iso_639_1:
+  :iso_639_1: wrl
   :iso_639_3: wrl
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Warumungu
@@ -56057,11 +56097,11 @@
   :type: :living
   :scope: :individual
 - :name: Wardaman
-  :iso_639_1:
+  :iso_639_1: wrr
   :iso_639_3: wrr
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Waris
@@ -56216,20 +56256,20 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Wikngenchera
-  :iso_639_1:
+- :name: Kugu Nganhcara
+  :iso_639_1: wua
   :iso_639_3: wua
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Wunambal
-  :iso_639_1:
+  :iso_639_1: wub
   :iso_639_3: wub
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Wudu
@@ -56368,12 +56408,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Wangaaybuwan-Ngiyambaa
-  :iso_639_1:
+- :name: Ngiyampaa
+  :iso_639_1: wyb
   :iso_639_3: wyb
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Wymysorys
@@ -59081,19 +59121,19 @@
   :type: :living
   :scope: :individual
 - :name: Yidiny
-  :iso_639_1:
+  :iso_639_1: yii
   :iso_639_3: yii
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Yindjibarndi
-  :iso_639_1:
+  :iso_639_1: yij
   :iso_639_3: yij
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Dongshanba Lalo
@@ -59193,11 +59233,11 @@
   :type: :living
   :scope: :individual
 - :name: Yir Yoront
-  :iso_639_1:
+  :iso_639_1: yiy
   :iso_639_3: yiy
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Azhe
@@ -60193,11 +60233,11 @@
   :type: :living
   :scope: :individual
 - :name: Yawuru
-  :iso_639_1:
+  :iso_639_1: ywr
   :iso_639_3: ywr
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Xishanba Lalo
@@ -60793,12 +60833,12 @@
   :type: :extinct
   :scope: :individual
 - :name: Kaurna
-  :iso_639_1:
+  :iso_639_1: zku
   :iso_639_3: zku
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
-  :type: :extinct
+  :common: true
+  :type: :living
   :scope: :individual
 - :name: Krevinian
   :iso_639_1:
@@ -60928,13 +60968,13 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Mandandanyi
-  :iso_639_1:
+- :name: Mandandanji
+  :iso_639_1: zmk
   :iso_639_3: zmk
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
-  :type: :extinct
+  :common: true
+  :type: :living
   :scope: :individual
 - :name: Madngele
   :iso_639_1:
@@ -60944,12 +60984,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Marimanindji
-  :iso_639_1:
+- :name: Marramaninyshi
+  :iso_639_1: zmm
   :iso_639_3: zmm
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Mbangwe
@@ -61000,21 +61040,21 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Maringarr
-  :iso_639_1:
+- :name: Mari Ngarr
+  :iso_639_1: zmt
   :iso_639_3: zmt
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Muruwari
-  :iso_639_1:
+  :iso_639_1: zmu
   :iso_639_3: zmu
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
-  :type: :extinct
+  :common: true
+  :type: :living
   :scope: :individual
 - :name: Mbariman-Gudhinma
   :iso_639_1:

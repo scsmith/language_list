@@ -3,19 +3,31 @@ require 'language_list'
 
 class LanguageListTest < Minitest::Test
   def test_all_languages
-    assert_equal 7715, LanguageList::ALL_LANGUAGES.length
+    assert_equal 7723, LanguageList::ALL_LANGUAGES.length
   end
 
   def test_common_languages
-    assert_equal 84, LanguageList::COMMON_LANGUAGES.length
+    assert_equal 234, LanguageList::COMMON_LANGUAGES.length
   end
 
   def test_living_languages
-    assert_equal 6994, LanguageList::LIVING_LANGUAGES.length
+    assert_equal 7029, LanguageList::LIVING_LANGUAGES.length
   end
 
   def test_iso_iso_639_1_languages
-    assert_equal 196, LanguageList::ISO_639_1.length
+    assert_equal 344, LanguageList::ISO_639_1.length
+  end
+
+  def test_common_languages_have_an_iso_639_1
+    assert LanguageList::COMMON_LANGUAGES.all?(&:iso_639_1?)
+  end
+
+  def test_ascl_label_and_living_type_for_australian_languages
+    noongar = LanguageList::LanguageInfo.find_by_iso_639_3('nys')
+    assert_equal 'Noongar', noongar.name
+    assert_equal 'nys', noongar.iso_639_1
+    assert noongar.common?
+    assert LanguageList::LanguageInfo.find_by_iso_639_3('wrh').living?
   end
 
   def test_find_by_iso_639_1
